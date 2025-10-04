@@ -1,0 +1,6 @@
+/* Capitalize navbar titles */
+.navbar-nav > li > a,
+.navbar-nav > li > button,
+.navbar-nav > li > span {
+  text-transform: capitalize !important;
+}
