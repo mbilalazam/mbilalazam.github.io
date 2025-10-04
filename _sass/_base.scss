@@ -1422,4 +1422,10 @@ figure.cover {
   a.cover-link:hover {
     color: #23212d !important;
   }
+
+  /* Force capitalize navbar links */
+  .navbar-nav .nav-link {
+    text-transform: capitalize !important;
+  }
+
 }
