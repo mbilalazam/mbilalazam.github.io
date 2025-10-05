@@ -1,14 +1,25 @@
+# GitHub users whose public repositories will be displayed
 github_users:
-  - torvalds
-  - alshedivat
+  - mbilalazam     # Academic / DUNE physics projects
+  - teckyonAI      # AI / ML, automation, and freelance projects
 
+# Maximum number of lines for repository description
 repo_description_lines_max: 2
 
+# Specific repositories you want to feature prominently
 github_repos:
+  # --- Academic / DUNE ---
+  - mbilalazam/DUNE
+  - mbilalazam/spine
+  - mbilalazam/LATEX_templates
+
+  # --- AI / ML / Engineering ---
+  - teckyonAI/WhatsApp_Chat_Analyzer
+  - teckyonAI/YouTube_Sentiment_Analyzer
+  - teckyonAI/Breast_Cancer_AI_Predictor
+  - teckyonAI/COVID_Fake_News_Detector
+
+  # --- Other references or frameworks ---
   - alshedivat/al-folio
   - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
   - mathjax/MathJax
-  - jpswalsh/academicons
