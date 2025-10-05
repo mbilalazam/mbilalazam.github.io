@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-riazuddin-the-self-effacing-quintessential-physicist-of-pakistan",
+        
+          title: "Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan",
+        
+        description: "Tribute article on Professor Riazuddin — one of Pakistan’s greatest theoretical physicists and a close collaborator of Abdus Salam.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Riazuddin/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -380,6 +391,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/twitter/";
           
         },
+      },{id: "post-distill-copy-md-zone",
+        
+          title: "Distill   copy.md:zone",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/distill-Copy.md-Zone/";
+          
+        },
       },{id: "post-a-post-with-disqus-comments",
         
           title: "a post with disqus comments",
@@ -501,35 +523,42 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%61%7A%61%6D@%61%6E%6C.%67%6F%76", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/mbilalazam", "_blank");
         },
       },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://inspirehep.net/authors/2047024", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/muhammad-bilal-azam", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-0272-8287", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=WfHM6RIAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
