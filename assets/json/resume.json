@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Muhammad Bilal Azam",
+    "label": "Graduate Research Assistant",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "azam@anl.gov",
+    "url": "https://mbilalazam.github.io",
+    "summary": "PhD Physics candidate at Illinois Institute of Technology, working as a Graduate Research Assistant at Argonne National Laboratory and member of the DUNE Collaboration. Focused on AI/ML-based neutrino event reconstruction, simulation, and analysis using the DUNE Near Detector Prototype.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Argonne National Laboratory",
+      "postalCode": "60439",
+      "city": "Lemont",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "muhammad-bilal-azam",
+        "url": "https://www.linkedin.com/in/muhammad-bilal-azam/"
       }
     ]
   },
