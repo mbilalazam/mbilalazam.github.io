@@ -51,21 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-riazuddin-the-self-effacing-quintessential-physicist-of-pakistan",
+        },{id: "post-riazuddin-the-self-effacing-quintessential-physicist-of-pakistan",
         
           title: "Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan",
         
@@ -382,17 +368,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/twitter/";
-          
-        },
-      },{id: "post-distill-copy-md-zone",
-        
-          title: "Distill   copy.md:zone",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2018/distill-Copy.md-Zone/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
