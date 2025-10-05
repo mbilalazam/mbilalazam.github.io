@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle: <a href='https://www.anl.gov/profile/muhammad-bilal-azam'>Argonne Lab</a> · Ph.D. Candidate at IIT Chicago · Physicist · AI/ML Enthusiast · Writer · Traveler
 
 profile:
@@ -18,7 +17,7 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
