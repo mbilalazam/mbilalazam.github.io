@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-riazuddin-the-self-effacing-quintessential-physicist-of-pakistan",
+        },{id: "post-how-machines-learn-to-rebuild-particle-showers",
+        
+          title: "How Machines Learn to Rebuild Particle Showers",
+        
+        description: "An intuitive explainer on how AI models evaluate reconstruction quality — using ARI, Purity, and Efficiency.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ai-reconstructs-particle-showers/";
+          
+        },
+      },{id: "post-riazuddin-the-self-effacing-quintessential-physicist-of-pakistan",
         
           title: "Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan",
         
