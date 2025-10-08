@@ -452,9 +452,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-the-strange-symmetry-of-majorana-fermions",
+          title: 'The Strange Symmetry of Majorana Fermions',
+          description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
