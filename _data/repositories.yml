@@ -9,8 +9,8 @@ repo_description_lines_max: 2
 # Specific repositories you want to feature prominently
 github_repos:
   # --- Academic / DUNE ---
-  - mbilalazam/DUNE
-  - mbilalazam/spine
+  - mbilalazam/dune-setup-utils
+  - mbilalazam/spine-lab
   - mbilalazam/LATEX_templates
 
   # --- AI / ML / Engineering ---
