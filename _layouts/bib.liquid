@@ -201,6 +201,11 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
+	  {% if entry.docdb %}
+		<a href="{{ entry.docdb }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">
+		🔒 DOCDB
+	    </a>
+	  {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
