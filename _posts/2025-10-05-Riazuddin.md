@@ -24,11 +24,24 @@ It was tumultuous 1947 when the world observed the violent partition of India. B
 
 ---
 
+![Professor Riazuddin — Early Years](/assets/img/posts/riazuddin/riazuddin.jpg){: style="display: block; margin: 0 auto; max-width: 70%; border-radius: 8px;"}
+*Professor Riazuddin (1930–2013), one of Pakistan’s most distinguished theoretical physicists.*  
+*Image source: [King Fahd University of Petroleum & Minerals](https://faculty.kfupm.edu.sa/phys/khodja/Riazuddin.htm)*
+
+---
+
 In Government College Lahore, they started studying engineering but they couldn’t make their way spectacular and stunning. So a teacher there suggested them to study physics rather than engineering. Riazuddin gave his assent. Although it was quite disturbing and uninteresting situation for Riazuddin yet it was the outset of a celebrated career in the cosmos of physics. It was Government College Lahore, where Riazuddin met with his mentor Abdus Salam, in 1951. Salam’s sharp-witted personality and perspicacity to deal with theories in physics made him the rising star in the physics community all over the world. It was not only Riazuddin but the nations who spurred by Salam. After declining the offer of professorship at Cambridge, Salam joined Government College, Lahore and at the same time, he started a new course of Quantum Mechanics in Punjab University, Lahore. It was Salam’s repute who drew the attention of students. But only Riazuddin and Fayyazuddin got success in surviving the thicket of mathematical equations involved in quantum mechanics. Although it was a disheartened experience for Salam yet the twins made their identification as best students in that course.
 
 ---
 
 Riazuddin got his Master’s degree in mathematics from Government College Lahore under the mentorship of Abdus Salam and joined his alma mater in 1954 as a lecturer in mathematics. Riazuddin left for Cambridge in 1955 on the invitation of Dr. Abdus Salam to pursue his doctorate under his supervision. His dissertation entitled *“Charge Radius of Pion”* got published in *Physical Review Letters* on May 15, 1959. It dealt with certain regularities underlying nuclear forces. It was an influential research paper but something more outstanding was yet to come. 
+
+---
+
+![Riazuddin with Abdus Salam at ICTP, Trieste](/assets/img/posts/riazuddin/riazuddin_salam.jpg){: style="display: block; margin: 0 auto; max-width: 75%; border-radius: 8px;"}
+*Professor Riazuddin (left) with his mentor, Nobel Laureate Abdus Salam, at the International Centre for Theoretical Physics (ICTP), Trieste.*  
+*Image source: [ICTP — In Memoriam (2013)](https://www.ictp.it/news/2013/9/memoriam)*
+
 
 ---
 
@@ -43,6 +56,12 @@ Riazuddin found 1968, an efficacious year, for him. He came back to Pakistan on 
 Salam’s relation with Riazuddin was lenient and unparalleled. Two nonpareil physicists of the homeland enthralled the physicists of all castes and creeds all over the world. International Centre for Theoretical Physics (ICTP) Trieste, Italy shortly after its establishment became world’s leading cornerstone research institute. Riazuddin, along with Salam’s other students, created theoretical physics group there. 
 
 Astonishingly, it was ICTP, where Salam summoned Riazuddin and advised him to meet Munir Ahmed Khan upon his return to Pakistan to start the progress for the designing of the atomic bomb. In Salam’s views, the creation of theoretical physics group in Pakistan was mandatary to explore the technical aspects of fissile core and triggering mechanics of fissile material. Riazuddin made himself busy in the collection and analysis of data, which he procured from research papers, Manhattan project, Los Alamos laboratory etc. and started working day and night with sagacious engineers and canny physicists. Now, the rest was history. By shrugging off conspiracies, Pakistan made its way towards success. There was mass jubilation on May 28, 1998.
+
+---
+
+![Riazuddin, Fayyazuddin, and Pervez Hoodbhoy at Quaid-i-Azam University, 2012](/assets/img/posts/riazuddin/riazuddin_salam_fiazuddin.jpg){: style="display: block; margin: 0 auto; max-width: 75%; border-radius: 8px;"}
+*Riazuddin, Fayyazuddin, and Pervez Hoodbhoy relaxing at the tea huts, Quaid-i-Azam University, 2012.*  
+*Image source: [The News International — “A Physicist’s Journey”](https://www.thenews.com.pk/tns/detail/778147-a-physicists-journey)*
 
 ---
 

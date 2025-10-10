@@ -2,7 +2,7 @@
 layout: page
 title: The Strange Symmetry of Majorana Fermions
 description: From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.
-img: assets/img/project1/majorana_cover.jpg
+img: assets/img/project1/majorana_cover_gemini.jpg
 importance: 1
 category: work
 related_publications: false
