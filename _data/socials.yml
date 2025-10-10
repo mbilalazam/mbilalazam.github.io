@@ -54,3 +54,10 @@ scholar_userid: WfHM6RIAAAAJ # your Google Scholar ID
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #  title: Custom Social
 #  url: https://www.alberteinstein.com/
+  
+custom_social: # can be any name here other than the ones already defined above
+  logo: assets/img/teckyonai_favicon.png # can be png, svg, jpg
+  title: TeckyonAI GitHub
+  url: https://github.com/teckyonAI
+
+
