@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/ai-reconstructs-particle-showers/";
           
         },
+      },{id: "post-causal-metric-hypothesis-i",
+        
+          title: "Causal Metric Hypothesis–I",
+        
+        description: "Exploring the causal metric hypothesis, its philosophical roots, and its role in defining the discrete structure of spacetime within causal set theory.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/causal-metric-hypothesis-I/";
+          
+        },
       },{id: "post-a-picture-and-an-equation",
         
           title: "A Picture and an Equation",
