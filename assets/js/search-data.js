@@ -73,6 +73,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/dark-matter-evolution-history-of-universe/";
           
         },
+      },{id: "post-evolution-history-of-universe-a-story-from-zero-to-ten-seconds",
+        
+          title: "Evolution History of Universe: A Story from Zero to Ten Seconds",
+        
+        description: "From the Planck era to the lepton epoch — how our universe evolved in its first ten seconds.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/evolution-history-of-universe-zero-to-ten-seconds/";
+          
+        },
       },{id: "post-causal-metric-hypothesis-i",
         
           title: "Causal Metric Hypothesis–I",
