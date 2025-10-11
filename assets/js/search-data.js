@@ -73,6 +73,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/dark-matter-evolution-history-of-universe/";
           
         },
+      },{id: "post-evolution-history-of-universe-from-10-seconds-to-10-billion-years",
+        
+          title: "Evolution History of Universe: From 10 Seconds to 10 Billion Years",
+        
+        description: "From the photon epoch to the formation of galaxies — tracing how the universe evolved from seconds to billions of years.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/evolution-history-of-universe-10-seconds-to-10-billion-years/";
+          
+        },
       },{id: "post-evolution-history-of-universe-a-story-from-zero-to-ten-seconds",
         
           title: "Evolution History of Universe: A Story from Zero to Ten Seconds",
