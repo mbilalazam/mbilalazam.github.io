@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/ai-reconstructs-particle-showers/";
           
         },
+      },{id: "post-dark-matter",
+        
+          title: "Dark Matter",
+        
+        description: "Understanding the invisible mass of the universe — its evidence, classification, and candidates from baryonic MACHOs to supersymmetric WIMPs.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/dark-matter-evolution-history-of-universe/";
+          
+        },
       },{id: "post-causal-metric-hypothesis-i",
         
           title: "Causal Metric Hypothesis–I",
