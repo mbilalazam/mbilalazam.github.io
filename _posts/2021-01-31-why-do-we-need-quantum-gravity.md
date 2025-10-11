@@ -24,7 +24,7 @@ toc:
 ---
 
 
-📄 A printable version of this article is available [Why do we need "Quantum Gravity"? (PDF)](assets/pdf/posts/2021-01-31-why-do-we-need-quantum-gravity/1_QG_and_CST_v1.pdf)
+📄 A printable version of this article is available [Why do we need "Quantum Gravity"? (PDF)](https://github.com/mbilalazam/mbilalazam.github.io/blob/main/assets/pdf/posts/2021-01-31-why-do-we-need-quantum-gravity/1_QG_and_CST_v1.pdf)
 
 
 In the *Proceedings of the Royal Society of London*, in 1929, one of the giants of the twentieth-century scientific community, Paul Dirac narrated <d-cite key="Dirac1929"></d-cite> at a moment:  

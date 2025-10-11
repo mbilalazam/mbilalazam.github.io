@@ -15,7 +15,7 @@ authors:
 thumbnail: /assets/img/posts/2019-10-05-Riazuddin/riazuddin.jpg
 ---
 
-📄 A printable version of this article is available [Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan (PDF)](assets/pdf/posts/2019-10-05-Riazuddin/dr_riazuddin.pdf)
+📄 A printable version of this article is available [Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan (PDF)](https://github.com/mbilalazam/mbilalazam.github.io/blob/main/assets/pdf/posts/2019-10-05-Riazuddin/dr_riazuddin.pdf)
 
 > *A tribute to one of Pakistan’s greatest theoretical physicists,  
 > whose quiet brilliance helped shape the nation’s scientific destiny.*

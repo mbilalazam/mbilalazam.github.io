@@ -23,7 +23,7 @@ toc:
       - name: Causal Schrödinger-Type Equations
 ---
 
-📄 A printable version of this article is available [A Picture and an Equation (PDF)](assets/pdf/posts/2021-01-31-why-do-we-need-quantum-gravity/2_A_Picture_and_an_Equation_v1.pdf)
+📄 A printable version of this article is available [A Picture and an Equation (PDF)](https://github.com/mbilalazam/mbilalazam.github.io/blob/main/assets/pdf/posts/2021-03-07-a-picture-and-an-equation/2_A_Picture_and_an_Equation_v1.pdf)
 
 ---
 
