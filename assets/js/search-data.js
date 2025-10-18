@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "A selection of projects showcasing my recent work and interests.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -155,17 +155,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-the-strange-symmetry-of-majorana-fermions",
-          title: 'The Strange Symmetry of Majorana Fermions',
-          description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -200,6 +190,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-when-spacetime-becomes-countable-causal-sets-and-the-fluctuating-lambda",
+          title: 'When Spacetime Becomes Countable: Causal Sets and the Fluctuating Lambda',
+          description: "How discreteness, causality, and quantum uncertainty might explain the ever-changing cosmological constant.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_cst_fluctuating_lambda/";
+            },},{id: "projects-the-strange-symmetry-of-majorana-fermions",
+          title: 'The Strange Symmetry of Majorana Fermions',
+          description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_majorana/";
             },},{
         id: 'social-email',
         title: 'email',
