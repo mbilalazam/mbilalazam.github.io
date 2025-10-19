@@ -155,12 +155,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -200,6 +195,11 @@ ninja.data = [{
           description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_majorana/";
+            },},{id: "projects-how-big-is-everything-the-geometry-and-volume-of-a-closed-universe",
+          title: 'How Big Is Everything? The Geometry and Volume of a Closed Universe',
+          description: "A story about the universe’s possible shapes — open, flat, or closed — and how its very volume might whisper secrets about the quantum nature of spacetime.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_volume_of_closed_universe/";
             },},{
         id: 'social-email',
         title: 'email',
