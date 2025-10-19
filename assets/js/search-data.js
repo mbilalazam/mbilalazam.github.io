@@ -155,12 +155,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -195,6 +190,11 @@ ninja.data = [{
           description: "How discreteness, causality, and quantum uncertainty might explain the ever-changing cosmological constant.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_cst_fluctuating_lambda/";
+            },},{id: "projects-how-the-universe-learned-to-expand-the-story-of-the-friedmann-equations",
+          title: 'How the Universe Learned to Expand: The Story of the Friedmann Equations',
+          description: "A brief journey through the insight that turned Einstein’s geometry into the heartbeat of an evolving cosmos.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_friedmann_equations/";
             },},{id: "projects-the-strange-symmetry-of-majorana-fermions",
           title: 'The Strange Symmetry of Majorana Fermions',
           description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
