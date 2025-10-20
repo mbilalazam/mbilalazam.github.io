@@ -155,12 +155,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
+          section: "News",},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
@@ -190,6 +185,11 @@ ninja.data = [{
           description: "A brief journey through the insight that turned Einstein’s geometry into the heartbeat of an evolving cosmos.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_friedmann_equations/";
+            },},{id: "projects-when-quantum-became-geometry-the-hidden-shape-of-hilbert-space",
+          title: 'When Quantum Became Geometry: The Hidden Shape of Hilbert Space',
+          description: "A journey into the deep structure of quantum mechanics — where complex vectors curve into geometry and Schrödinger’s equation becomes a Hamiltonian flow.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_geometry_of_qm/";
             },},{id: "projects-the-strange-symmetry-of-majorana-fermions",
           title: 'The Strange Symmetry of Majorana Fermions',
           description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
