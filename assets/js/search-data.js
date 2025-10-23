@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-how-machines-learn-to-rebuild-particle-showers",
+        },{id: "post-میری-پہلی-اردو-تحریر",
+        
+          title: "میری پہلی اردو تحریر",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/urdu-sample/";
+          
+        },
+      },{id: "post-how-machines-learn-to-rebuild-particle-showers",
         
           title: "How Machines Learn to Rebuild Particle Showers",
         
