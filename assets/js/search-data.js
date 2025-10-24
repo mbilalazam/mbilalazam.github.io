@@ -219,6 +219,11 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-aik-dunya/";
+            },},{id: "urdu_posts-کچھ-ذکر-پاکستان-کے-عالمی-شہرت-یافتہ-ماہرِ-طبیعیات-ڈاکٹر-ریاض-الدین-کا",
+          title: 'کچھ ذکر پاکستان کے عالمی شہرت یافتہ ماہرِ طبیعیات ڈاکٹر ریاض الدین کا...',
+          description: "ڈاکٹر ریاض الدین — پاکستان کے عظیم سائنسدان، نظری طبیعیات کے ماہر اور ڈاکٹر عبدالسلام کے شاگردِ رشید کا تفصیلی تعارف۔",
+          section: "Urdu_posts",handler: () => {
+              window.location.href = "/urdu/blogs/urdu-riazuddin/";
             },},{id: "urdu_posts-میری-پہلی-اردو-تحریر",
           title: 'میری پہلی اردو تحریر',
           description: "",
