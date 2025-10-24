@@ -214,11 +214,106 @@ ninja.data = [{
           description: "A story about the universe’s possible shapes — open, flat, or closed — and how its very volume might whisper secrets about the quantum nature of spacetime.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_volume_of_closed_universe/";
+            },},{id: "urdu_poetry-اونچا-ہے-مرا-سر-کہ-میں-مقتل-میں-کھڑا-ہوں",
+          title: 'اونچا ہے مرا سر کہ میں مقتل میں کھڑا ہوں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-ocha-hai-mera-sar/";
+            },},{id: "urdu_poetry-جان-تیری-جہان-تیرا-ہے",
+          title: 'جان تیری، جہان تیرا ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-jaan-teri-jahaan-tera/";
+            },},{id: "urdu_poetry-ایک-جگنو-ہے-کہ-منزل-کے-حوالے-مانگے",
+          title: 'ایک جگنو ہے کہ منزل کے حوالے مانگے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-aik-jugnu-hai/";
+            },},{id: "urdu_poetry-آؤ-روٹھے-ہوئے-لوگوں-کو-منائیں-ہم-بھی",
+          title: 'آؤ روٹھے ہوئے لوگوں کو منائیں ہم بھی',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-aao-roothay-hue-logon/";
+            },},{id: "urdu_poetry-آگ-ہے-سلسلہ-محبت-کا",
+          title: 'آگ ہے سلسلہ محبت کا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-aag-hai-silsila/";
+            },},{id: "urdu_poetry-ان-جاگتی-آنکھوں-نے-دیکھا-اک-خواب-سنہرے-موسم-کا",
+          title: 'ان جاگتی آنکھوں نے دیکھا، اک خواب سنہرے موسم کا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-in-jagti-ankhon-ne-dekha/";
+            },},{id: "urdu_poetry-اس-بار-سمندر-کا-کنارہ-بھی-نہیں-تھا",
+          title: 'اس بار سمندر کا کنارہ بھی نہیں تھا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-is-baar-samandar/";
+            },},{id: "urdu_poetry-پھر-دل-میں-سلگ-اٹھی-زنجیر-کی-خواہش",
+          title: 'پھر دل میں سلگ اٹھی زنجیر کی خواہش',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-phir-dil-mein-salag-uthi/";
+            },},{id: "urdu_poetry-اس-دل-کی-بند-کتابوں-میں-کوئی-شخص-تمہارے-بعد-نہیں",
+          title: 'اس دل کی بند کتابوں میں، کوئی شخص تمہارے بعد نہیں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-is-dil-ki-band-kitabon/";
+            },},{id: "urdu_poetry-جاں-گسل-مہر-بہ-لب-ٹھہری-ہے",
+          title: 'جاں گسل، مہر بہ لب ٹھہری ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-jaan-gusal-mehr/";
+            },},{id: "urdu_poetry-تیری-خوشبو-کو-بھی-زنجیر-نہیں-کر-سکتا",
+          title: 'تیری خوشبو کو بھی زنجیر نہیں کر سکتا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-teri-khushboo-ko/";
+            },},{id: "urdu_poetry-پھر-شوقِ-محبت-نے-کہیں-کا-نہیں-چھوڑا",
+          title: 'پھر شوقِ محبت نے کہیں کا نہیں چھوڑا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-phir-shauq-e-mohabbat/";
+            },},{id: "urdu_poetry-جب-عمر-بھر-نہ-آئیں-نبھانی-محبتیں",
+          title: 'جب عمر بھر نہ آئیں نبھانی محبتیں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-jab-umr-bhar-na-aain/";
+            },},{id: "urdu_poetry-اُس-کے-ہاتھوں-میں-بھی-تیشہ-نہ-رہا-میرے-بعد",
+          title: 'اُس کے ہاتھوں میں بھی تیشہ نہ رہا میرے بعد',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-us-ke-hathon-mein/";
             },},{id: "urdu_poetry-ایک-دنیا-ہے-مرے-درپئے-آزار-جدا",
           title: 'ایک دنیا ہے مرے درپئے آزار جدا',
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-aik-dunya/";
+            },},{id: "urdu_poetry-آج-موسم-بھی-عجب-موسم-ہے",
+          title: 'آج موسم بھی عجب موسم ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-aaj-mausam/";
+            },},{id: "urdu_poetry-پھر-شام-ہوئی-اور-ڈرانے-مجھے-آئے",
+          title: 'پھر شام ہوئی اور ڈرانے مجھے آئے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-phir-shaam-hui/";
+            },},{id: "urdu_poetry-اب-تو-ہر-سمت-فرشتے-نظر-آتے-ہیں-مجھے",
+          title: 'اب تو ہر سمت فرشتے نظر آتے ہیں مجھے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-ab-to-har-simt/";
+            },},{id: "urdu_poetry-بوجھل-سی-طبیعت-ہے-کوئی-کام-نہیں-ہے",
+          title: 'بوجھل سی طبیعت ہے، کوئی کام نہیں ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-bojhal-si-tabiyat/";
+            },},{id: "urdu_poetry-اب-ہے-تعبیر-کے-دھوکے-میں-سرابوں-کا-سفر",
+          title: 'اب ہے تعبیر کے دھوکے میں سرابوں کا سفر',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-ab-hai-tabeer/";
             },},{id: "urdu_posts-کچھ-ذکر-پاکستان-کے-عالمی-شہرت-یافتہ-ماہرِ-طبیعیات-ڈاکٹر-ریاض-الدین-کا",
           title: 'کچھ ذکر پاکستان کے عالمی شہرت یافتہ ماہرِ طبیعیات ڈاکٹر ریاض الدین کا...',
           description: "ڈاکٹر ریاض الدین — پاکستان کے عظیم سائنسدان، نظری طبیعیات کے ماہر اور ڈاکٹر عبدالسلام کے شاگردِ رشید کا تفصیلی تعارف۔",
