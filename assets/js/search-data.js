@@ -51,18 +51,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-میری-پہلی-اردو-تحریر",
-        
-          title: "میری پہلی اردو تحریر",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/urdu-sample/";
-          
-        },
-      },{id: "post-how-machines-learn-to-rebuild-particle-showers",
+        },{id: "dropdown-blogs",
+              title: "Blogs",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/urdu/blogs/";
+              },
+            },{id: "dropdown-poetry",
+              title: "Poetry",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/urdu/poetry/";
+              },
+            },{id: "post-how-machines-learn-to-rebuild-particle-showers",
         
           title: "How Machines Learn to Rebuild Particle Showers",
         
@@ -211,6 +214,16 @@ ninja.data = [{
           description: "A story about the universe’s possible shapes — open, flat, or closed — and how its very volume might whisper secrets about the quantum nature of spacetime.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_volume_of_closed_universe/";
+            },},{id: "urdu_poetry-ایک-دنیا-ہے-مرے-درپئے-آزار-جدا",
+          title: 'ایک دنیا ہے مرے درپئے آزار جدا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-aik-dunya/";
+            },},{id: "urdu_posts-میری-پہلی-اردو-تحریر",
+          title: 'میری پہلی اردو تحریر',
+          description: "",
+          section: "Urdu_posts",handler: () => {
+              window.location.href = "/urdu/blogs/urdu-sample/";
             },},{
         id: 'social-email',
         title: 'email',
