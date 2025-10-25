@@ -229,6 +229,11 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-aik-jugnu-hai/";
+            },},{id: "urdu_poetry-جن-کے-انداز-تھے-ساون-کی-گھٹاؤں-والے",
+          title: 'جن کے انداز تھے ساون کی گھٹاؤں والے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-jin-ke-andaz-the/";
             },},{id: "urdu_poetry-آؤ-روٹھے-ہوئے-لوگوں-کو-منائیں-ہم-بھی",
           title: 'آؤ روٹھے ہوئے لوگوں کو منائیں ہم بھی',
           description: "",
@@ -239,6 +244,16 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-aag-hai-silsila/";
+            },},{id: "urdu_poetry-چنچل-متوالی-راتوں-میں-مَیں-یاد-آؤں-گا",
+          title: 'چنچل متوالی راتوں میں، مَیں یاد آؤں گا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-chanchal-matwali-raaton/";
+            },},{id: "urdu_poetry-دیوانہ-ہوں-پتھر-سے-وفا-مانگ-رہا-ہوں",
+          title: 'دیوانہ ہوں، پتھر سے وفا مانگ رہا ہوں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-deewana-hoon-pathar-se/";
             },},{id: "urdu_poetry-ان-جاگتی-آنکھوں-نے-دیکھا-اک-خواب-سنہرے-موسم-کا",
           title: 'ان جاگتی آنکھوں نے دیکھا، اک خواب سنہرے موسم کا',
           description: "",
@@ -249,6 +264,11 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-is-baar-samandar/";
+            },},{id: "urdu_poetry-سوکھا-ہوا-جنگل-ہوں-مجھے-آگ-لگا-دو",
+          title: 'سوکھا ہوا جنگل ہوں، مجھے آگ لگا دو',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-sookha-hua-jangal-hoon/";
             },},{id: "urdu_poetry-پھر-دل-میں-سلگ-اٹھی-زنجیر-کی-خواہش",
           title: 'پھر دل میں سلگ اٹھی زنجیر کی خواہش',
           description: "",
@@ -279,16 +299,41 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-jab-umr-bhar-na-aain/";
+            },},{id: "urdu_poetry-روز-ملنے-سے-تجھے-دل-کو-سکوں-ملتا-ہے",
+          title: 'روز ملنے سے تجھے، دل کو سکوں ملتا ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-roz-milne-se-tujhe/";
+            },},{id: "urdu_poetry-جو-سر-سناں-پہ-سجے-وہ-جھکاؤ-چاہتے-ہیں",
+          title: 'جو سر سناں پہ سجے، وہ جھکاؤ چاہتے ہیں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-jo-sar-sinan-pe-saje/";
             },},{id: "urdu_poetry-اُس-کے-ہاتھوں-میں-بھی-تیشہ-نہ-رہا-میرے-بعد",
           title: 'اُس کے ہاتھوں میں بھی تیشہ نہ رہا میرے بعد',
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-us-ke-hathon-mein/";
+            },},{id: "urdu_poetry-ظلمت-کدے-کے-سارے-خداؤں-کے-فیصلے",
+          title: 'ظلمت کدے کے سارے خداؤں کے فیصلے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-zulmat-kaday-ke-saare/";
+            },},{id: "urdu_poetry-شبِ-ظلمت-کو-نئی-راہ-دکھاتے-ہوئے-آئے",
+          title: 'شبِ ظلمت کو نئی راہ دکھاتے ہوئے آئے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-shab-e-zulmat-ko-nai-rah/";
             },},{id: "urdu_poetry-ایک-دنیا-ہے-مرے-درپئے-آزار-جدا",
           title: 'ایک دنیا ہے مرے درپئے آزار جدا',
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-aik-dunya/";
+            },},{id: "urdu_poetry-چاند-نکلا-شبِ-رفتہ-نہ-ستارے-نکلے",
+          title: 'چاند نکلا شبِ رفتہ، نہ ستارے نکلے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-chaand-nikla-shab-e-rafta/";
             },},{id: "urdu_poetry-آج-موسم-بھی-عجب-موسم-ہے",
           title: 'آج موسم بھی عجب موسم ہے',
           description: "",
@@ -299,6 +344,11 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-phir-shaam-hui/";
+            },},{id: "urdu_poetry-چراغ-لے-کے-نکلنا-یا-شب-بسر-کرنا",
+          title: 'چراغ لے کے نکلنا یا شب بسر کرنا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-chiragh-le-ke-nikalna/";
             },},{id: "urdu_poetry-اب-تو-ہر-سمت-فرشتے-نظر-آتے-ہیں-مجھے",
           title: 'اب تو ہر سمت فرشتے نظر آتے ہیں مجھے',
           description: "",
@@ -309,6 +359,11 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-bojhal-si-tabiyat/";
+            },},{id: "urdu_poetry-راز-ہوں-راز-ہی-رہنا-ہے-مجھے",
+          title: 'راز ہوں راز ہی رہنا ہے مجھے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-raaz-hoon-raaz-hi-rehna/";
             },},{id: "urdu_poetry-اب-ہے-تعبیر-کے-دھوکے-میں-سرابوں-کا-سفر",
           title: 'اب ہے تعبیر کے دھوکے میں سرابوں کا سفر',
           description: "",
