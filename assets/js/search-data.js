@@ -239,6 +239,16 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-dil-bhatakta-hi-raha-khawabon-mein/";
+            },},{id: "urdu_poetry-یوں-تو-وہ-ساتھ-ساتھ-ہے-میرے",
+          title: 'یوں تو وہ ساتھ ساتھ ہے میرے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-yoon-to-wo-sath-sath-hai-mere/";
+            },},{id: "urdu_poetry-جیسے-بکھرے-ہوئے-گیسو",
+          title: 'جیسے بکھرے ہوئے گیسو',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-jaise-bikhre-hue-gesu/";
             },},{id: "urdu_poetry-جن-کے-انداز-تھے-ساون-کی-گھٹاؤں-والے",
           title: 'جن کے انداز تھے ساون کی گھٹاؤں والے',
           description: "",
@@ -249,6 +259,11 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-aao-roothay-hue-logon/";
+            },},{id: "urdu_poetry-عذاب-آشنا-چہرہ-لئے-جو-پھرتا-ہے",
+          title: 'عذاب آشنا چہرہ لئے جو پھرتا ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-azab-ashna-chehra-liye-jo-phirta-hai/";
             },},{id: "urdu_poetry-کچھ-ایسی-اب-کے-چلی-شہر-میں-ہوائے-ہجر",
           title: 'کچھ ایسی اب کے چلی شہر میں ہوائے ہجر',
           description: "",
@@ -314,6 +329,51 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-is-dil-ki-band-kitabon/";
+            },},{id: "urdu_poetry-میں-نے-بھی-سوچ-لیا-تھا-نہیں-ملنا-اُس-سے",
+          title: 'میں نے بھی سوچ لیا تھا، نہیں ملنا اُس سے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-tere-ishq-ne-meri-adat-kar-di/";
+            },},{id: "urdu_poetry-پھولوں-کو-مسل-ڈالو",
+          title: 'پھولوں کو مسل ڈالو',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-phoolon-ko-masal-dalo/";
+            },},{id: "urdu_poetry-عنوان-ہو-تم-جاناں",
+          title: 'عنوان ہو تم جاناں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-unwan-ho-tum-janan/";
+            },},{id: "urdu_poetry-ہو-جائے-کسی-طور-جو-تکمیلِ-تمنا",
+          title: 'ہو جائے کسی طور جو تکمیلِ تمنا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-takmeel-e-tamanna/";
+            },},{id: "urdu_poetry-ہم-ترے-خوابوں-کو-تعبیر-جدا-بخشیں-گے",
+          title: 'ہم ترے خوابوں کو تعبیر جدا بخشیں گے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-hum-tere-khwabon-ko-tabeer-juda-bakhshein-ge/";
+            },},{id: "urdu_poetry-بیقراری-سی-بیقراری-ہے",
+          title: 'بیقراری سی بیقراری ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-beqarari-si-beqarari-hai/";
+            },},{id: "urdu_poetry-یوں-ہی-سہی",
+          title: 'یوں ہی سہی',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-yoon-hi-sahi/";
+            },},{id: "urdu_poetry-ضدی-بلا-کا-تھا-وہ-شکایت-اُسے-بھی-تھی",
+          title: 'ضدی بلا کا تھا وہ، شکایت اُسے بھی تھی',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-usay-bhi-thi/";
+            },},{id: "urdu_poetry-جو-ترے-آستاں-سے-اٹھتا-ہے",
+          title: 'جو ترے آستاں سے اٹھتا ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-jo-tere-aastan-se-uthta-hai/";
             },},{id: "urdu_poetry-جاں-گسل-مہر-بہ-لب-ٹھہری-ہے",
           title: 'جاں گسل، مہر بہ لب ٹھہری ہے',
           description: "",
@@ -324,11 +384,31 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-teri-khushboo-ko/";
+            },},{id: "urdu_poetry-وقتِ-رخصت-تھی-گھٹن-دل-میں-نمی-آنکھوں-میں",
+          title: 'وقتِ رخصت تھی گھٹن دل میں، نمی آنکھوں میں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-tune-jate-hue-ankhon-mein-kahi/";
+            },},{id: "urdu_poetry-نور-کا-ہالہ-مرے-دھیان-میں-اترا-اکثر",
+          title: 'نور کا ہالہ مرے دھیان میں اترا اکثر',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-noor-ka-hala-mere-dhiyan-mein-utra/";
             },},{id: "urdu_poetry-عشق-گرداب-کی-صورت-ہے-سہارے-واجب",
           title: 'عشق گرداب کی صورت ہے سہارے واجب',
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-ishq-girdab-ki-surat/";
+            },},{id: "urdu_poetry-نے-دوست-ملے-ہم-کو-نہ-اغیار-مکمل",
+          title: 'نے دوست ملے ہم کو، نہ اغیار مکمل',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-ne-dost-mile-humko-na-aghyar-mukammal/";
+            },},{id: "urdu_poetry-ہے-ترا-ہجر-مسلسل-مری-وحشت-کے-لئے",
+          title: 'ہے ترا ہجر مسلسل مری وحشت کے لئے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-hai-tera-hijr-musalsal/";
             },},{id: "urdu_poetry-کل-شب-سنا-ہواؤں-کے-تیور-بدل-گئے",
           title: 'کل شب سنا ہواؤں کے تیور بدل گئے',
           description: "",
@@ -369,6 +449,31 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-us-ke-hathon-mein/";
+            },},{id: "urdu_poetry-وہ-جس-کی-آنکھیں-روشن-تھیں-وہ-جس-کا-چہرہ-سندر-تھا",
+          title: 'وہ جس کی آنکھیں روشن تھیں، وہ جس کا چہرہ سندر تھا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-wo-jis-ki-ankhen-roshan-theen/";
+            },},{id: "urdu_poetry-یزیدِ-وقت-نے-جب-بھی-فجورِ-عام-کیا",
+          title: 'یزیدِ وقت نے جب بھی فجورِ عام کیا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-karbala-hum-ne/";
+            },},{id: "urdu_poetry-شامِ-وحشت-سے-کہو-دے-مجھے-لمحوں-کا-حساب",
+          title: 'شامِ وحشت سے کہو، دے مجھے لمحوں کا حساب',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-shaam-e-wahshat-se-kaho/";
+            },},{id: "urdu_poetry-یہ-دھوپ-چھاؤں-سی-گردش-جو-روزگار-میں-ہے",
+          title: 'یہ دھوپ چھاؤں سی گردش جو روزگار میں ہے',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-ye-dhoop-chhaon-si-gardish/";
+            },},{id: "urdu_poetry-ڈر-لگتا-ہے",
+          title: 'ڈر لگتا ہے۔۔۔',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-dar-lagta-hai/";
             },},{id: "urdu_poetry-ظلمت-کدے-کے-سارے-خداؤں-کے-فیصلے",
           title: 'ظلمت کدے کے سارے خداؤں کے فیصلے',
           description: "",
@@ -379,6 +484,21 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-shab-e-zulmat-ko-nai-rah/";
+            },},{id: "urdu_poetry-دیکھنے-سے-ڈرتا-ہوں",
+          title: 'دیکھنے سے ڈرتا ہوں',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/nazm-dekhne-se-darta-hoon/";
+            },},{id: "urdu_poetry-وقتِ-موہوم-سے-معلوم-نیا-کیا-کرنا",
+          title: 'وقتِ موہوم سے معلوم نیا کیا کرنا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-wakt-e-mohum-se-maloom-naya-kya-karna/";
+            },},{id: "urdu_poetry-عمر-بھر-ہاتھ-نہ-امروز-نہ-فردا-آیا",
+          title: 'عمر بھر ہاتھ نہ امروز نہ فردا آیا',
+          description: "",
+          section: "Urdu_poetry",handler: () => {
+              window.location.href = "/urdu/poetry/ghazal-umr-bhar-hath-na-aaya/";
             },},{id: "urdu_poetry-ایک-دنیا-ہے-مرے-درپئے-آزار-جدا",
           title: 'ایک دنیا ہے مرے درپئے آزار جدا',
           description: "",
