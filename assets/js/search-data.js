@@ -169,12 +169,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -209,6 +204,11 @@ ninja.data = [{
           description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_majorana/";
+            },},{id: "projects-spine-camera-synchronization-multi-view-event-display-sync",
+          title: 'SPINE Camera Synchronization: Multi-View Event Display Sync',
+          description: "A lightweight JavaScript patch for synchronizing camera motion between reconstructed and truth 3D scenes in SPINE/Plotly visualizations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_spine_camera_synchronization_patch/";
             },},{id: "projects-how-big-is-everything-the-geometry-and-volume-of-a-closed-universe",
           title: 'How Big Is Everything? The Geometry and Volume of a Closed Universe',
           description: "A story about the universe’s possible shapes — open, flat, or closed — and how its very volume might whisper secrets about the quantum nature of spacetime.",
