@@ -21,7 +21,7 @@ nav_order: 2
     <div class="row">
       <div class="col-4">
         <p class="display-6 fw-bold text-primary mb-0">{{ inspire.papers }}</p>
-        <p class="text-muted small">Papers</p>
+        <p class="text-muted small">arXiv Papers</p>
       </div>
       <div class="col-4">
         <p class="display-6 fw-bold text-primary mb-0">{{ inspire.citations }}</p>
