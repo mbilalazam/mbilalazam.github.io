@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Windows/WSL "mark of the web" alternate data streams, created when a file
+# is downloaded via Windows and surfaced as a separate file under WSL
+*:Zone.Identifier
