@@ -208,7 +208,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _posts/sample_files/
+  - docs/ # reference-only material (post templates); never built
 keep_files:
   - CNAME
   - .nojekyll
