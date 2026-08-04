@@ -442,6 +442,36 @@
     }
   ],
 
+  "writing": [
+    {
+      "name": "Why do we need Quantum Gravity?",
+      "publisher": "Spectra Magazine",
+      "releaseDate": "2021-04",
+      "url": "https://spectramagazine.org/physical-sciences/why-do-we-need-quantum-gravity/",
+      "summary": "Published 21 April 2021."
+    },
+    {
+      "name": "A Success Story of Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan",
+      "publisher": "The Sahiwal",
+      "releaseDate": "2019",
+      "summary": "The Sahiwal, 2019, pp. 40–42."
+    },
+    {
+      "name": "An Interview with Dr. Muhammed Sameed (CERN, Switzerland)",
+      "publisher": "HumSub",
+      "releaseDate": "2018-04",
+      "url": "http://en.humsub.com.pk/258/muhammad-bilal-azam/",
+      "summary": "Published 05 April 2018."
+    },
+    {
+      "name": "Dr. I. H. Usmani: The Common Heritage of All Mankind",
+      "publisher": "Technology Times",
+      "releaseDate": "2015",
+      "url": "https://www.technologytimes.pk/dr-ih-usmani-the-common-heritage-of-all-humanity/",
+      "summary": "Technology Times, 2015. Web, accessed 15 July 2016."
+    }
+  ],
+
   "talks": [
     {
       "title": "ND-LAr 2×2 Antineutrino studies with Charged Hadrons in Final States",

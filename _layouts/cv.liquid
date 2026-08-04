@@ -93,6 +93,7 @@ layout: default
                 {%- when 'talks' -%}Oral Talks
                 {%- when 'affiliations' -%}Professional Affiliations
                 {%- when 'conferences' -%}Conferences, Workshops and Seminars
+                {%- when 'writing' -%}General Publications
                 {%- else -%}{{ data[0] | capitalize }}
               {%- endcase -%}
             </h3>
@@ -126,6 +127,8 @@ layout: default
                   {% include resume/affiliations.liquid %}
                 {% when 'conferences' %}
                   {% include resume/conferences.liquid %}
+                {% when 'writing' %}
+                  {% include resume/writing.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
