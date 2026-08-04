@@ -318,6 +318,136 @@
     }
   ],
 
+  "talks": [
+    {
+      "title": "ND-LAr 2×2 Antineutrino studies with Charged Hadrons in Final States",
+      "date": "2026.06",
+      "event": "Neutrino 2026",
+      "location": "Irvine, USA",
+      "summary": "University of California, Irvine, United States"
+    },
+    {
+      "title": "Neutrino Interaction and Its Systematics in ND-LAr Prototype",
+      "date": "2026.05",
+      "event": "Early Career Scientist Symposium Series (ECSS)",
+      "location": "Lemont, USA",
+      "summary": "Argonne National Laboratory, United States"
+    },
+    {
+      "title": "Development of Physics Analysis and Reconstruction with the DUNE ND Prototype",
+      "date": "2025.07",
+      "event": "New Perspectives",
+      "location": "Batavia, USA",
+      "summary": "Fermi National Accelerator Laboratory, United States"
+    },
+    {
+      "title": "Charged-Track Multiplicity Analysis",
+      "date": "2025.05",
+      "event": "DUNE Collaboration Meeting",
+      "location": "Chicago, USA",
+      "summary": "FermiLab, Chicago, United States"
+    },
+    {
+      "title": "Advances in Physics Studies and Reconstruction with the DUNE Near Detector Prototype",
+      "date": "2025.03",
+      "event": "Joint March & April Meeting, Global Physics Summit",
+      "location": "Anaheim, USA",
+      "summary": "American Physical Society, Anaheim, United States"
+    },
+    {
+      "title": "Multiplicity-related studies with data-MC comparison",
+      "date": "2024.09",
+      "event": "DUNE Collaboration Meeting",
+      "location": "Santa Fe, USA",
+      "summary": "Santa Fe, New Mexico, United States"
+    },
+    {
+      "title": "First Physics Studies with DUNE Near Detector Prototype (2×2 Demonstrator)",
+      "date": "2024.07",
+      "event": "New Perspectives",
+      "location": "Batavia, USA",
+      "summary": "Fermi National Accelerator Laboratory, United States"
+    },
+    {
+      "title": "First Physics Studies with DUNE Near Detector Prototype (2×2)",
+      "date": "2024.04",
+      "event": "Bulletin of the American Physical Society",
+      "location": "Sacramento, USA",
+      "summary": "Sacramento, California, United States"
+    },
+    {
+      "title": "First Physics Studies with DUNE ND Prototype",
+      "date": "2023.12",
+      "event": "Young Scientist Symposium Series (YSSS)",
+      "location": "Lemont, USA",
+      "summary": "Argonne National Laboratory, United States"
+    },
+    {
+      "title": "Track Multiplicity Analysis Update",
+      "date": "2023.10",
+      "event": "2×2 First Analysis Meeting (DUNE)",
+      "location": "Batavia, USA",
+      "summary": "Fermi National Accelerator Laboratory, United States"
+    },
+    {
+      "title": "Physics Studies with DUNE Near Detector Prototype LArTPC (aka ProtoDUNE-ND)",
+      "date": "2023.09",
+      "event": "Argonne High Energy Physics Division Seminar",
+      "location": "Lemont, USA",
+      "summary": "Argonne National Laboratory, United States"
+    },
+    {
+      "title": "Everpresent Λ. III. In the Closed Universe",
+      "date": "2020.10",
+      "event": "Workshop on Quantum Spacetime and the Renormalization Group (Online)",
+      "location": "Odense, Denmark",
+      "summary": "CP3-Origins, University of Southern Denmark"
+    },
+    {
+      "title": "Fluctuating Cosmological Term in the Closed Universe",
+      "date": "2020.02",
+      "event": "2020 Research Symposium",
+      "location": "Sahiwal, Pakistan",
+      "summary": "University of Sahiwal, Pakistan"
+    },
+    {
+      "title": "Everpresent Λ in the Closed Universe",
+      "date": "2020.01",
+      "event": "Poster Presentation Session of SBASSE Graduate Students with the School's Advisory Board",
+      "location": "Lahore, Pakistan",
+      "url": "https://doi.org/10.13140/RG.2.2.30779.36641",
+      "summary": "Lahore University of Management Sciences, Pakistan"
+    },
+    {
+      "title": "Dark Energy in Causal Set Theory",
+      "date": "2019.01",
+      "event": "1st PU International Conference on Gravitation and Cosmology",
+      "location": "Lahore, Pakistan",
+      "summary": "Punjab University, Lahore, Pakistan"
+    },
+    {
+      "title": "Exotic Matter and Search for Magnetic Monopoles (MoEDAL Experiment at CERN)",
+      "date": "2018.08",
+      "event": "7th School on LHC Physics",
+      "location": "Islamabad, Pakistan",
+      "summary": "National Centre for Physics, Islamabad, Pakistan"
+    },
+    {
+      "title": "Study of Optical Properties of Isotropic Materials by Reflection SE",
+      "date": "2017.12",
+      "event": "Department of Physics Seminar",
+      "location": "Lahore, Pakistan",
+      "summary": "Lahore University of Management Sciences, Pakistan"
+    },
+    {
+      "title": "Laser Systems and their Practical Applications",
+      "date": "2017.03",
+      "event": "Department of Physics Seminar",
+      "location": "Sahiwal, Pakistan",
+      "summary": "Govt. Postgraduate College, Sahiwal, Pakistan"
+    }
+  ],
+
   "skills": [
     {
       "name": "Programming Languages",
