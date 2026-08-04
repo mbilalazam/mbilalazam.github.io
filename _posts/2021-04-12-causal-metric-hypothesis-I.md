@@ -71,6 +71,7 @@ To handle these issues, people suggested the systematic violations of Lorentz in
     {% include figure.liquid 
        path="assets/img/posts/2021-04-12-causal-metric-hypothesis-I/blog_cstheory_3_figure_1.jpg" 
        title="Classical spacetime according to discrete causal theory (Benjamin Dribus 2017)." 
+       alt="Classical spacetime alongside a magnified view showing discrete spacetime atoms, with black nodes causally connected to event x and grey nodes unrelated to it"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Classical spacetime according to discrete causal theory (<d-cite key="Dribus2017"></d-cite>).

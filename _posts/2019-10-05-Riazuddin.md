@@ -31,6 +31,7 @@ It was tumultuous 1947 when the world observed the violent partition of India. B
     {% include figure.liquid 
        path="assets/img/posts/2019-10-05-Riazuddin/riazuddin.jpg" 
        title="Professor Riazuddin — Early Years" 
+       alt="Black-and-white portrait of Professor Riazuddin as a young man"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Professor Riazuddin (1930–2013), one of Pakistan’s most distinguished theoretical physicists.<br>
@@ -54,6 +55,7 @@ Riazuddin got his Master’s degree in mathematics from Government College Lahor
     {% include figure.liquid 
        path="assets/img/posts/2019-10-05-Riazuddin/riazuddin_salam.jpg" 
        title="Riazuddin with Abdus Salam at ICTP, Trieste" 
+       alt="Riazuddin standing beside Abdus Salam at the ICTP in Trieste"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Professor Riazuddin (left) with his mentor, Nobel Laureate Abdus Salam, at the International Centre for Theoretical Physics (ICTP), Trieste.<br>
@@ -83,6 +85,7 @@ Astonishingly, it was ICTP, where Salam summoned Riazuddin and advised him to me
     {% include figure.liquid 
        path="assets/img/posts/2019-10-05-Riazuddin/riazuddin_salam_fiazuddin.jpg" 
        title="Riazuddin, Fayyazuddin, and Pervez Hoodbhoy at Quaid-i-Azam University, 2012" 
+       alt="Riazuddin, Fayyazuddin and Pervez Hoodbhoy seated together at the tea huts of Quaid-i-Azam University"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Riazuddin, Fayyazuddin, and Pervez Hoodbhoy relaxing at the tea huts, Quaid-i-Azam University, 2012.<br>

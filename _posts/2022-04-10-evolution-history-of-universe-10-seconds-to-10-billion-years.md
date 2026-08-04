@@ -41,6 +41,7 @@ As BBN ended, the universe entered the **Photon Epoch**, lasting for the next 38
     {% include figure.liquid 
        path="assets/img/posts/2022-04-10-evolution-history-of-universe-10-seconds-to-10-billion-years/ch01_fig03_Coincidence.jpg"
        title="Evolution of the contents of the universe with the scale factor (Credits: 2011 Pearson Education, Inc.)."
+       alt="Log-log plot of radiation, matter and dark energy densities against the cosmic scale factor"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Evolution of the contents of the universe with the scale factor (Credits: 2011 Pearson Education, Inc.).

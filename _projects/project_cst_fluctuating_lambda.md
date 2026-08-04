@@ -55,6 +55,7 @@ Today, what he once saw as an aesthetic flaw has become one of the pillars of ou
     {% include figure.liquid 
        path="assets/img/project_cst_fluctuating_lambda/ch_04_einstein_lambda_blackboard_vintage.jpg"
        title="Einstein writing his field equations, with the cosmological constant term ($\Lambda$) faintly highlighted."
+       alt="Illustration of Einstein at a blackboard writing his field equations, with the cosmological constant term highlighted"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -79,6 +80,7 @@ In this way, discreteness and symmetry are reconciled: a universe that is random
     {% include figure.liquid 
        path="assets/img/project_cst_fluctuating_lambda/ch_04_lorentz_boost.jpg"
        title="Graphical Visualization of Poisson sprinkling to preserve Lorentz invariance in causal set theory"
+       alt="Scatter of randomly sprinkled points before and after a Lorentz boost, showing the distribution is statistically unchanged"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -106,6 +108,7 @@ Numerical simulations (following Sorkin, Ahmed, and collaborators) show that thi
     {% include figure.liquid 
        path="assets/img/project_cst_fluctuating_lambda/ch_04_flat_lambda_paper_01.jpg"
        title="Evolution of energy densities of different contents for $\alpha = 0.01$"
+       alt="Plot of radiation, matter and fluctuating dark-energy densities against time, staying comparable in magnitude"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>

@@ -44,6 +44,7 @@ These and some other compelling arguments again convinced the scientists to thin
     {% include figure.liquid 
        path="assets/img/posts/2021-01-31-why-do-we-need-quantum-gravity/ch01_fig01_contents.png" 
        title="Pie Chart of the content of the Universe (Credits: NASA/WMAP Science Team)." 
+       alt="Pie chart of the Universe's composition, split into dark energy, dark matter and ordinary matter"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Pie chart of the content of the Universe (Credits: NASA/WMAP Science Team).
@@ -166,6 +167,7 @@ Lastly, we have briefly reviewed the idea of quantum gravity, its need, present 
     {% include figure.liquid 
        path="assets/img/posts/2021-01-31-why-do-we-need-quantum-gravity/history_of_qg_rovelli.svg" 
        title="The search for a quantum theory of the gravitational field (adapted from Rovelli 2004)." 
+       alt="Timeline diagram tracing approaches to a quantum theory of the gravitational field"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       The search for a quantum theory of the gravitational field (adapted from <d-cite key="Rovelli2004"></d-cite>).

@@ -41,6 +41,7 @@ The idea of modeling physical processes — or even equations — through *pictu
     {% include figure.liquid 
        path="assets/img/posts/2021-03-07-a-picture-and-an-equation/feynman_diagram_01.png" 
        title="Exchange of one photon between two electrons (Feynman 1949)." 
+       alt="Feynman diagram showing two electrons exchanging a single photon"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Exchange of one photon between two electrons (<d-cite key="Feynman1949"></d-cite>).
@@ -57,6 +58,7 @@ Feynman diagrams have proved so useful that they have become integral to quantum
     {% include figure.liquid 
        path="assets/img/posts/2021-03-07-a-picture-and-an-equation/Penguin_diagram_01.jpg" 
        title="Penguin diagram (Wikipedia)." 
+       alt="A penguin Feynman diagram drawn over a photograph of a Gentoo penguin"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -72,6 +74,7 @@ Diagrams are equally central to relativity — from simple Minkowski spacetime d
     {% include figure.liquid 
        path="assets/img/posts/2021-03-07-a-picture-and-an-equation/penrose_diagram_01.png" 
        title="Penrose diagram (Penrose 1963)." 
+       alt="Penrose conformal diagram showing the causal structure of spacetime"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -94,6 +97,7 @@ Causal theories provide a figurative way to understand and model the universe ar
     {% include figure.liquid 
        path="assets/img/posts/2021-03-07-a-picture-and-an-equation/blog_cstheory_2_figure_1.png" 
        title="Quantum universe in discrete causal theory (Dribus 2017)." 
+       alt="Network of nodes and directed links representing a quantum universe in discrete causal theory"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>

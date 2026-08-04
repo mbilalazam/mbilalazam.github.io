@@ -15,6 +15,7 @@ At first glance, a coffee mug and a donut seem completely unrelated. But to a to
     {% include figure.liquid 
        path="assets/img/project_majorana/fig1_mug_donut.png" 
        title="Topology in everyday life — a coffee mug and a donut share the same topological feature: one hole." 
+       alt="A coffee mug and a donut side by side, illustrating that both are topologically equivalent with one hole"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -38,7 +39,7 @@ Physicists soon wondered: could superconductors show something similar? It turne
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_majorana/fig1_particle_hole_symmetry.png" title="Figure 1. Particle–hole symmetry, the cornerstone of superconductivity" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/project_majorana/fig1_particle_hole_symmetry.png" title="Figure 1. Particle–hole symmetry, the cornerstone of superconductivity" alt="Two energy-versus-momentum band diagrams joined by an equals sign, one marking a filled electron state and the other an empty hole state, labelled 'same state'" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -55,7 +56,7 @@ This twisting gives rise to a **Chern number**, an integer that acts like a topo
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_majorana/fig2_sommerfeld_landau.png" title="Figure 2. From classical to quantum: electrons reshape their identities inside a crystal" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/project_majorana/fig2_sommerfeld_landau.png" title="Figure 2. From classical to quantum: electrons reshape their identities inside a crystal" alt="Two energy level diagrams: panel (a) shows electron-like levels above and hole-like levels below the Fermi energy; panel (b) shows them superimposed under particle-hole conjugation" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -69,7 +70,7 @@ Every electron has a mirror partner — a “hole” — and together they form 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_majorana/fig3_excitation_comparison.png" title="Figure 3. Comparison of excitations in normal and superconducting states" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/project_majorana/fig3_excitation_comparison.png" title="Figure 3. Comparison of excitations in normal and superconducting states" alt="Energy-versus-momentum curves comparing the normal state, where bands cross zero, with the superconducting state, where a gap of 2Δ opens" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -83,7 +84,7 @@ Each end behaves like *half* of a particle, and only when they come together do 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_majorana/fig5_majorana_chain.png" title="Figure 5. The 1-D Majorana chain, showing edge-localized zero modes" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/project_majorana/fig5_majorana_chain.png" title="Figure 5. The 1-D Majorana chain, showing edge-localized zero modes" alt="One-dimensional chain of six sites with hopping amplitude t between neighbours and pairing amplitude Δ" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -103,7 +104,7 @@ When two Majorana modes are exchanged, their joint quantum state changes in a wa
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project_majorana/fig6_trivial_vs_topological.png" title="Figure 6. Comparison of trivial and topological superconducting spectra" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/project_majorana/fig6_trivial_vs_topological.png" title="Figure 6. Comparison of trivial and topological superconducting spectra" alt="Two plots of the d(k) vector in the dx-dz plane: for |μ| > 2t the loop misses the origin (trivial superconductor); for |μ| < 2t it encloses the origin (topological superconductor)" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

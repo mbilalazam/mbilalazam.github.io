@@ -26,6 +26,7 @@ Einstein’s theory of general relativity taught us that **matter tells spacetim
     {% include figure.liquid 
        path="assets/img/project_volume_of_closed_universe/geometry_of_universe.jpg"
        title="Geometry of the Universe — the three possible cosmic curvatures: open, flat, and closed."
+       alt="Three cosmic geometries side by side: a saddle-shaped open universe, a flat universe and a spherical closed universe"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -55,6 +56,7 @@ By starting from the closed **Friedmann–Lemaître–Robertson–Walker (FLRW)*
     {% include figure.liquid 
        path="assets/img/project_volume_of_closed_universe/light_cone_diagram.svg"
        title="Light cone in 2D space plus a time dimension, more commonly referred to as ‘Spacetime.’"
+       alt="Double light cone in two space dimensions plus time, with future and past cones meeting at the present"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>

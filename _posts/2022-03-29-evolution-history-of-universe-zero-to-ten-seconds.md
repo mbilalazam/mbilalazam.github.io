@@ -44,6 +44,7 @@ These stages are further divided into several **epochs** based on theoretical mo
     {% include figure.liquid 
        path="assets/img/posts/2022-03-29-evolution-history-of-universe-zero-to-ten-seconds/ch02_fig_01_history_of_universe.jpg"
        title="Evolution history of the universe (Contemporary Physics Education Project, 2016)."
+       alt="Timeline chart of the universe's evolution from the Big Bang through its major epochs"
        class="img-fluid rounded z-depth-1" %}
     <div class="caption">
       Evolution history of the universe (<d-cite key="hawley2005foundations"></d-cite>).
