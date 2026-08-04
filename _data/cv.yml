@@ -1,138 +1,466 @@
+# Fallback CV data, rendered by _layouts/cv.liquid when
+# assets/json/resume.json is unavailable. Mirrors that file; regenerate
+# both together so the fallback never drifts from the primary source.
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Muhammad Bilal Azam
-    - name: Position
-      value: "Graduate Research Assistant | PhD Candidate in Physics"
-    - name: Email
-      value: azam@anl.gov
-    - name: Location
-      value: Argonne National Laboratory, Lemont, Illinois 60439, United States
-    - name: Languages
-      value: English (Fluent), Urdu (Native)
-
+  - name: Full Name
+    value: Muhammad Bilal Azam
+  - name: Position
+    value: Graduate Research Assistant | PhD Candidate in Physics
+  - name: Email
+    value: bilalazam31@gmail.com
+  - name: Location
+    value: Argonne National Laboratory, Lemont, Illinois 60439, United States
+  - name: Languages
+    value: English (Fluent), Urdu (Native)
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Physics
-      institution: Illinois Institute of Technology, Chicago, United States
-      year: 2021 - Present
-      description:
-        - PhD in Experimental High Energy Physics under Prof. Dr. Zelimir Djurcic.
-        - Research focuses on AI/ML-based neutrino reconstruction and DUNE 2×2 data analysis.
-    - title: MS, Physics
-      institution: Lahore University of Management Sciences (LUMS), Lahore, Pakistan
-      year: 2017 - 2019
-      description:
-        - Master's thesis on dark energy in causal set theory, addressing the fine-tuning problem via unimodular gravity.
-    - title: BSc and MSc, Physics and Mathematics
-      institution: Government Graduate College, Sahiwal, Pakistan
-      year: 2011 - 2015
-      description:
-        - Bachelor's and Master's studies emphasizing theoretical and experimental physics.
-
+  - title: Doctor of Philosophy, Physics
+    institution: Illinois Institute of Technology, Chicago, United States
+    year: 2021.08 - Present
+    description:
+    - 'Doctor of Philosophy in Physics. Thesis supervisor: Prof. Dr. Zelimir Djurcic. Research on AI/ML-based
+      neutrino reconstruction and DUNE 2×2 data analysis.'
+  - title: Master of Science, Physics
+    institution: Lahore University of Management Sciences (LUMS), Lahore, Pakistan
+    year: 2017.08 - 2019.06
+    description:
+    - 'Master of Science in Physics. Thesis title: Dark Energy in Causal Set Theory. Thesis supervisor:
+      Prof. Dr. Maqbool Ahmed.'
+  - title: Master of Science, Physics
+    institution: Bahauddin Zakariya University, Multan, Pakistan
+    year: 2013.10 - 2015.05
+    description:
+    - Masters of Science in Physics.
+  - title: Bachelor of Science, Mathematics and Physics
+    institution: Bahauddin Zakariya University, Multan, Pakistan
+    year: 2011.11 - 2013.05
+    description:
+    - Bachelors of Science in Mathematics and Physics.
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant
-      institution: Argonne National Laboratory
-      year: 2022 - Present
-      description:
-        - Contributing to detector development and data analysis for the DUNE experiment.
-        - Focus on calibration system design, generator validation, and AI-driven event reconstruction on high-performance computing systems.
-    - title: Visiting Lecturer (Physics)
-      institution: University of Sahiwal, Pakistan
-      year: 2019 - 2021
-      description:
-        - Taught advanced physics courses including Relativity, Quantum Physics, and Electromagnetic Theory.
-    - title: Visiting Lecturer (Physics)
-      institution: FAST National University of Computer and Emerging Sciences, Pakistan
-      year: 2019 - 2021
-      description:
-        - Delivered undergraduate lectures in applied physics and electronics.
-    - title: Research Assistant
-      institution: Lahore University of Management Sciences (LUMS), Pakistan
-      year: 2019 - 2020
-      description:
-        - Worked on dark energy models in curved spacetime under causal set theory.
-
-- title: Research Projects
+  - title: Graduate Research Assistant
+    institution: Argonne National Laboratory, Lemont, United States
+    year: 2022.06 - Present
+    description:
+    - Detector development and data analysis for the Deep Underground Neutrino Experiment (DUNE).
+    - 'Photon Detection Calibration System: design, simulation, and testing of photon detection calibration
+      systems for DUNE detector prototypes.'
+    - 'Neutrino Event Generator and Multiplicity Studies: charged-current multiplicity studies comparing
+      measured data with neutrino generator simulations, to select the optimal generator for future DUNE
+      analyses.'
+    - 'Event Selection Optimization and AI/ML Reconstruction: tuning simulated events, optimizing neutrino
+      event selection, and enhancing AI/ML-based particle reconstruction using HPC workflows and hyperparameter
+      optimization, including systematic uncertainty studies.'
+  - title: Research Assistant for Course Translation
+    institution: Lahore University of Management Sciences (LUMS), Lahore, Pakistan
+    year: 2020.10 - 2021.01
+    description:
+    - 'Learning How to Learn (Adaptation Project): adapted and translated course assessments from English
+      to Urdu for the Coursera course by Barbara Oakley and Dr. Terrence Sejnowski.'
+  - title: Research Assistant
+    institution: Lahore University of Management Sciences (LUMS), Lahore, Pakistan
+    year: 2019.06 - 2020.07
+    description:
+    - 'Everpresent Lambda in the Closed Universe: studied the effects of strong and weak curvature on
+      dark energy behavior, developed a formalism for fluctuating Λ including metric functional derivatives,
+      and worked on incorporating CMB anisotropies into the model.'
+  - title: Master's Thesis
+    institution: Lahore University of Management Sciences (LUMS), Lahore, Pakistan
+    year: 2018.08 - 2019.05
+    description:
+    - 'Dark Energy in Causal Set Theory: addressed the fine-tuning and naturalness problems of dark energy
+      in a spherical topology universe using unimodular gravity and causal set theory, based on the fluctuating
+      cosmological constant model of Ahmed et al. (2004), under the supervision of Dr. Maqbool Ahmed.'
+- title: Publications
   type: time_table
   contents:
-    - title: DUNE 2×2 Near Detector Prototype
-      year: 2022 - Present
-      description:
-        - Analyzing charged-track multiplicity, event selection, and reconstruction performance using ML-assisted pipelines.
-        - title: Main contributions
-          contents:
-            - Photon detection calibration and simulation.
-            - Neutrino generator and multiplicity analysis.
-            - AI/ML-driven event reconstruction and selection optimization.
-    - title: Dark Energy in Causal Set Theory
-      year: 2017 - 2020
-      description:
-        - Developed a formalism to address the cosmological constant problem using unimodular gravity and a fluctuating Λ in a closed universe.
-        - title: Main contributions
-          contents:
-            - Causal set-based dark energy modeling.
-            - Implementation within unimodular gravity.
-            - Analysis of cosmological constant fine-tuning.
-
+  - title: Operation and performance of ProtoDUNE Dual Phase liquid argon time projection chamber
+    institution: arXiv preprint, arXiv:2607.15927
+    year: '2026.07'
+  - title: Design of the DUNE horizontal drift far detector charge readout electronics and performance
+      in ProtoDUNE-HD
+    institution: arXiv preprint, arXiv:2604.23966
+    year: '2026.04'
+  - title: Characterization of UV optical components for photon detector calibration in liquid argon TPCs
+    institution: Journal of Instrumentation 21, P06013
+    year: '2026.02'
+  - title: 'Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision'
+    institution: arXiv preprint, arXiv:2602.17582
+    year: '2026.02'
+  - title: Reconstruction of atmospheric neutrinos in DUNE's horizontal-drift far-detector module
+    institution: arXiv preprint, arXiv:2601.05697
+    year: '2026.01'
+  - title: Measurement of Exclusive π⁺–argon Interactions Using ProtoDUNE-SP
+    institution: arXiv preprint, arXiv:2511.13462
+    year: '2025.11'
+  - title: First Measurement of π⁺-Ar and p-Ar Total Inelastic Cross Sections in the Sub-GeV Energy Regime
+      with ProtoDUNE-SP Data
+    institution: arXiv preprint, arXiv:2511.11925
+    year: '2025.11'
+  - title: Identification of low-energy kaons in the ProtoDUNE-SP detector
+    institution: arXiv preprint, arXiv:2510.08380
+    year: '2025.10'
+  - title: 'Towards mono-energetic virtual ν beam cross-section measurements: A feasibility study of ν-Ar
+      interaction analysis with DUNE-PRISM'
+    institution: arXiv preprint, arXiv:2509.07664
+    year: '2025.09'
+  - title: Operation of a Modular 3D-Pixelated Liquid Argon Time-Projection Chamber in a Neutrino Beam
+    institution: arXiv preprint, arXiv:2509.07012
+    year: '2025.09'
+  - title: Spatial and temporal evaluations of the liquid argon purity in ProtoDUNE-SP
+    institution: Journal of Instrumentation 20, P09008
+    year: '2025.07'
+  - title: European Contributions to Fermilab Accelerator Upgrades and Facilities for the DUNE Experiment
+    institution: arXiv preprint, arXiv:2503.23744
+    year: '2025.03'
+  - title: DUNE Software and Computing Research and Development
+    institution: arXiv preprint, arXiv:2503.23743
+    year: '2025.03'
+  - title: The DUNE Phase II Detectors
+    institution: arXiv preprint, arXiv:2503.23293
+    year: '2025.03'
+  - title: The DUNE Science Program
+    institution: arXiv preprint, arXiv:2503.23291
+    year: '2025.03'
+  - title: The track-length extension fitting algorithm for energy measurement of interacting particles
+      in liquid argon TPCs and its performance with ProtoDUNE-SP data
+    institution: Journal of Instrumentation 20, P02021
+    year: '2025.02'
+  - title: Neutrino interaction vertex reconstruction in DUNE with Pandora deep learning
+    institution: European Physical Journal C 85, 697
+    year: '2025.02'
+  - title: 'DUNE Phase II: scientific opportunities, detector concepts, technological solutions'
+    institution: Journal of Instrumentation 19, P12005
+    year: '2024.08'
+  - title: First measurement of the total inelastic cross section of positively charged kaons on argon
+      at energies between 5.0 and 7.5 GeV
+    institution: Physical Review D 110, 092011
+    year: '2024.08'
+- title: General Publications
+  type: time_table
+  contents:
+  - title: Why do we need Quantum Gravity?
+    institution: Spectra Magazine
+    year: '2021.04'
+    description:
+    - Published 21 April 2021.
+  - title: 'A Success Story of Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan'
+    institution: The Sahiwal
+    year: '2019'
+    description:
+    - The Sahiwal, 2019, pp. 40–42.
+  - title: An Interview with Dr. Muhammed Sameed (CERN, Switzerland)
+    institution: HumSub
+    year: '2018.04'
+    description:
+    - Published 05 April 2018.
+  - title: 'Dr. I. H. Usmani: The Common Heritage of All Mankind'
+    institution: Technology Times
+    year: '2015'
+    description:
+    - Technology Times, 2015. Web, accessed 15 July 2016.
+- title: Oral Talks
+  type: time_table
+  contents:
+  - title: ND-LAr 2×2 Antineutrino studies with Charged Hadrons in Final States
+    institution: Neutrino 2026
+    department: University of California, Irvine, United States
+    year: '2026.06'
+  - title: Neutrino Interaction and Its Systematics in ND-LAr Prototype
+    institution: Early Career Scientist Symposium Series (ECSS)
+    department: Argonne National Laboratory, United States
+    year: '2026.05'
+  - title: Development of Physics Analysis and Reconstruction with the DUNE ND Prototype
+    institution: New Perspectives
+    department: Fermi National Accelerator Laboratory, United States
+    year: '2025.07'
+  - title: Charged-Track Multiplicity Analysis
+    institution: DUNE Collaboration Meeting
+    department: FermiLab, Chicago, United States
+    year: '2025.05'
+  - title: Advances in Physics Studies and Reconstruction with the DUNE Near Detector Prototype
+    institution: Joint March & April Meeting, Global Physics Summit
+    department: American Physical Society, Anaheim, United States
+    year: '2025.03'
+  - title: Multiplicity-related studies with data-MC comparison
+    institution: DUNE Collaboration Meeting
+    department: Santa Fe, New Mexico, United States
+    year: '2024.09'
+  - title: First Physics Studies with DUNE Near Detector Prototype (2×2 Demonstrator)
+    institution: New Perspectives
+    department: Fermi National Accelerator Laboratory, United States
+    year: '2024.07'
+  - title: First Physics Studies with DUNE Near Detector Prototype (2×2)
+    institution: Bulletin of the American Physical Society
+    department: Sacramento, California, United States
+    year: '2024.04'
+  - title: First Physics Studies with DUNE ND Prototype
+    institution: Young Scientist Symposium Series (YSSS)
+    department: Argonne National Laboratory, United States
+    year: '2023.12'
+  - title: Track Multiplicity Analysis Update
+    institution: 2×2 First Analysis Meeting (DUNE)
+    department: Fermi National Accelerator Laboratory, United States
+    year: '2023.10'
+  - title: Physics Studies with DUNE Near Detector Prototype LArTPC (aka ProtoDUNE-ND)
+    institution: Argonne High Energy Physics Division Seminar
+    department: Argonne National Laboratory, United States
+    year: '2023.09'
+  - title: Everpresent Λ. III. In the Closed Universe
+    institution: Workshop on Quantum Spacetime and the Renormalization Group (Online)
+    department: CP3-Origins, University of Southern Denmark
+    year: '2020.10'
+  - title: Fluctuating Cosmological Term in the Closed Universe
+    institution: 2020 Research Symposium
+    department: University of Sahiwal, Pakistan
+    year: '2020.02'
+  - title: Everpresent Λ in the Closed Universe
+    institution: Poster Presentation Session of SBASSE Graduate Students with the School's Advisory Board
+    department: Lahore University of Management Sciences, Pakistan
+    year: '2020.01'
+  - title: Dark Energy in Causal Set Theory
+    institution: 1st PU International Conference on Gravitation and Cosmology
+    department: Punjab University, Lahore, Pakistan
+    year: '2019.01'
+  - title: Exotic Matter and Search for Magnetic Monopoles (MoEDAL Experiment at CERN)
+    institution: 7th School on LHC Physics
+    department: National Centre for Physics, Islamabad, Pakistan
+    year: '2018.08'
+  - title: Study of Optical Properties of Isotropic Materials by Reflection SE
+    institution: Department of Physics Seminar
+    department: Lahore University of Management Sciences, Pakistan
+    year: '2017.12'
+  - title: Laser Systems and their Practical Applications
+    institution: Department of Physics Seminar
+    department: Govt. Postgraduate College, Sahiwal, Pakistan
+    year: '2017.03'
+- title: Projects
+  type: time_table
+  contents:
+  - title: Exotic Matter and Search for Magnetic Monopoles (MoEDAL at CERN)
+    year: 2018.08 - 2018.08
+    description:
+    - Discussed exotic matter and its role in explaining non-baryonic physics beyond the Standard Model,
+      with a focus on magnetic monopoles via Dirac and 't Hooft treatments and their experimental search
+      at CERN through the MoEDAL experiment.
+  - title: What is the meaning of "same" and "different" in context of measurements?
+    year: 2018.06 - 2018.08
+    description:
+    - Designed and conducted an experiment using conical pendulums to study the agreement between theoretical
+      predictions and experimental results.
+  - title: Solar Neutrino Problem
+    year: 2018.01 - 2018.05
+    description:
+    - Studied the solar neutrino problem and its theoretical and experimental resolution, with detailed
+      discussions on neutrino flavor mixing via the PMNS matrix and two-neutrino mixing approximations
+      used in oscillation data analysis.
+  - title: Majorana Fermions and Topological Superconductors
+    year: 2018.01 - 2018.05
+    description:
+    - Studied topological superconductors and their connection to Majorana fermions, including a comparison
+      with Dirac fermions and a pedagogical review of topological superconductivity. Detailed the Bogoliubov–de
+      Gennes (BdG) Hamiltonian via mean-field theory, with emphasis on the spinless one-dimensional p-wave
+      topological superconductor case.
+  - title: Study of Optical Properties of Isotropic Materials by Reflection SE
+    year: 2017.09 - 2017.12
+    description:
+    - Studied isotropic thin films by obtaining ellipsometric parameters Ψ and Δ using J.A. Woollam's
+      Alpha-SE Ellipsometer, extracted n, k, and d, and verified the complex reflection coefficient ρ
+      using MATLAB. Also cross-validated the refractive index of glass thin films via Alpha-SE Ellipsometry
+      and Michelson Interferometry.
+- title: Volunteer
+  type: time_table
+  contents:
+  - title: Assistant to Prof. Dr. Zelimir Djurcic
+    institution: Argonne National Laboratory, Lemont, United States
+    year: 2023.09 - 2023.12
+    description:
+    - Illinois Mathematics and Science Academy interns programme at Argonne National Laboratory.
+  - title: Check-in Judge
+    institution: Regional Bridge Building (Breaking) Contest, Chicago, United States
+    year: 2022.02 - 2022.02
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
-      items:
-        - Department of Energy (DOE) Graduate Research Grant, U.S. Department of Energy
-        - DOE-INFN Summer Exchange Fellowship, DOE and INFN Italy
-    - year: 2020
-      items:
-        - Best Paper Award, University of Sahiwal, Pakistan
-    - year: 2018
-      items:
-        - First Position in LHC Physics School Project Competition, National Centre for Physics, Islamabad
-
+  - title: Department of Energy (DOE) Grant for Graduate Research
+    institution: U.S. Department of Energy
+    year: '2023.09'
+    description:
+    - Participation in Intensity Frontier Neutrino Physics. Illinois Institute of Technology, Chicago,
+      IL, United States (Sep. 2023 – May 2025).
+  - title: DOE-INFN Summer Exchange Programme
+    institution: U.S. Department of Energy and Istituto Nazionale di Fisica Nucleare
+    year: '2023.06'
+    description:
+    - Study of the performance of a Near Detector for the DUNE experiment at FNAL. Laboratori Nazionali
+      del Sud, Catania, Italy.
+  - title: Mentor, Scipy2020 Scientific Computing with Python
+    institution: SciPy Conference
+    year: '2020'
+  - title: Best Paper Award
+    institution: University of Sahiwal, Pakistan
+    year: '2020'
+    description:
+    - 2020 Research Symposium.
+  - title: Token of Appreciation for Editor-in-Chief of Zauq
+    institution: LUMS Literary Society, Lahore, Pakistan
+    year: '2019'
+  - title: First Position, Project Presentation, 7th School on LHC Physics
+    institution: National Centre for Physics, Islamabad, Pakistan
+    year: '2018'
+  - title: Position Recognition Certificate for Highest Marks in MSc Physics
+    institution: Govt. Postgraduate College, Sahiwal, Pakistan
+    year: '2017'
+  - title: Student Member of the College Council
+    institution: Govt. Postgraduate College, Sahiwal, Pakistan
+    year: '2015'
+- title: Professional Affiliations
+  type: time_table
+  contents:
+  - title: American Physical Society
+    institution: Member, United States
+    year: 2023.08 - Present
+  - title: APS Inclusion, Diversity, and Equity Alliance (APS IDEA)
+    institution: Member, Chicago, USA
+    year: 2023.08 - 2024.08
+  - title: Spectra Magazine
+    institution: Editor (Urdu Section), Lahore, Pakistan
+    year: 2021.05 - 2022.06
+  - title: Khwarizmi Science Society
+    institution: Life Member, Lahore, Pakistan
+    year: 2021.03 - Present
+  - title: Khwarizmi Science Society
+    institution: Particle Physics and Science Communicator, Lahore, Pakistan
+    year: '2020.01'
+    description:
+    - Volunteer for the Large Hadron Collider Interactive Tunnel.
+  - title: 'Numud: LUMS''s Annual Bilingual Student Magazine'
+    institution: Editor, Lahore, Pakistan
+    year: '2019'
+    description:
+    - Volume 8.
+  - title: 'Zauq: Annual Magazine of LUMS Literary Society'
+    institution: Editor-in-Chief, Lahore, Pakistan
+    year: 2018.06 - 2019.07
+  - title: STEAM Ed Change Makers Initiative
+    institution: Member, Lahore, Pakistan
+    year: 2018.07 - Present
+  - title: Lahore Science Mela
+    institution: Volunteer, Lahore, Pakistan
+    year: '2018.01'
+  - title: 'Numud: LUMS''s Annual Bilingual Student Magazine'
+    institution: Editor, Lahore, Pakistan
+    year: '2018'
+    description:
+    - Volume 7.
+  - title: LUMS Literary Society
+    institution: Member and Advisor, Lahore, Pakistan
+    year: 2017.09 - Present
+  - title: 'Moarrakh: Govt. Postgraduate College''s Magazine'
+    institution: Sub-Editor, Sahiwal, Pakistan
+    year: 2015.09 - 2017.02
+  - title: History Society, Govt. Postgraduate College
+    institution: Lifetime Member, Sahiwal, Pakistan
+    year: 2014.06 - Present
+- title: Conferences, Workshops and Seminars
+  type: time_table
+  contents:
+  - title: Vibe Coding Hackathon
+    institution: Argonne National Laboratory, United States
+    year: '2025.06'
+  - title: PSE AI Hackathon
+    institution: Argonne National Laboratory, United States
+    year: '2025.01'
+  - title: ESCAPE Data Science for Astronomers, Astroparticle & Particle Physics Summer School
+    institution: Laboratoire d'Annecy de Physique des Particules (Annecy Particle Physics Laboratory)
+    year: '2021.06'
+  - title: IV Joint ICTP-Trieste/ICTP-SAIFR School on Cosmology
+    institution: ICTP South American Institute for Fundamental Research
+    year: '2021.01'
+    description:
+    - Challenges for the Standard Cosmological Model.
+  - title: 7th School on LHC Physics
+    institution: National Centre for Physics, Pakistan
+    year: '2018.08'
+  - title: Workshop on Information, Black Holes and Quantum Theory
+    institution: Abdus Salam School of Mathematical Sciences, Pakistan
+    year: '2018.03'
 - title: Certifications
   type: time_table
   contents:
-    - title: "AI for Science on Supercomputers: Advanced (Badge)"
-      institution: Argonne National Laboratory
-      year: 2024
-
+  - title: 'AI for Science on Supercomputers: Advanced (Badge)'
+    institution: Argonne National Laboratory, United States
+    year: '2024.04'
+    description:
+    - AI-driven Science on Supercomputers Student Training Program.
 - title: Technical Skills
   type: nested_list
   contents:
-    - title: Programming and Analysis
-      items:
-        - C++, Python, ROOT, LaTeX
-        - MATLAB, Julia, Bash, HPC
-    - title: Machine Learning and AI
-      items:
-        - Deep Learning, PyTorch, TensorFlow
-        - Generative AI, NLP, CUDA
-    - title: Physics and Experimentation
-      items:
-        - Neutrino Physics, Event Reconstruction, Detector Simulation
-        - Cosmology, Photon Detection, Causal Set Theory
-
+  - title: Programming Languages
+    items:
+    - C
+    - C++
+    - Python
+    - Julia
+    - ROOT
+    - LaTeX
+    - MATLAB
+    - Mathematica
+    - Maple
+    - Java
+    - JavaScript
+    - Bash
+  - title: AI and Machine Learning
+    items:
+    - Deep Learning
+    - Large Language Models
+    - NLP/NLU
+    - Neural Networks
+    - Generative AI
+    - PyTorch
+    - TensorFlow
+    - CUDA
+    - HPC
+  - title: Laboratory
+    items:
+    - Dimensional Analysis
+    - Logger Pro
+    - Mach–Zehnder Interferometer
+    - Fabry–Pérot Interferometer
+    - alpha-SE Ellipsometer
+    - Oscilloscope
+    - Notebook Skills
+  - title: Physics and Experimentation
+    items:
+    - Neutrino Physics
+    - Event Reconstruction
+    - Detector Simulation
+    - Cosmology
+    - Photon Detection
+    - Causal Set Theory
+  - title: Software and Tools
+    items:
+    - Microsoft Office
+    - NI Multisim
+    - Edraw Max
+    - Adobe Photoshop
+    - Mendeley
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Intelligent Physical Systems
-      items:
-        - Neutrino experiments.
-        - Mathematical and statistical models.
-        - Machine learning applications.
-        - High-performance computing (HPC).
-    - title: Science Communication
-      items:
-        - Public outreach and science writing.
-        - Physics education.
-        - Data visualization.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Writing:</u> Essays and poetry in Urdu and English.
-    - <u>Hobbies:</u> Teaching, mentoring, travelling, and long drives.
+  - title: Intelligent Physical Systems
+    items:
+    - Neutrino Experiments
+    - Mathematical and Statistical Models
+    - Machine Learning Applications
+    - High-Performance Computing (HPC)
+  - title: Science Communication
+    items:
+    - Public Outreach
+    - Science Writing
+    - Physics Education
+    - Data Visualization
