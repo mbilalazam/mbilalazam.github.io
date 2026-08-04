@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+# Single source of truth for the Ruby version: .ruby-version, which rbenv and
+# other version managers read, and which CI mirrors in deploy.yml.
+ruby file: '.ruby-version'
+
 gem 'jekyll'
 
 # Core plugins that directly affect site building
