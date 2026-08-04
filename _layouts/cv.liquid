@@ -91,6 +91,7 @@ layout: default
             <h3 class="card-title font-weight-medium">
               {%- case data[0] -%}
                 {%- when 'talks' -%}Oral Talks
+                {%- when 'affiliations' -%}Professional Affiliations
                 {%- else -%}{{ data[0] | capitalize }}
               {%- endcase -%}
             </h3>
@@ -120,6 +121,8 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'talks' %}
                   {% include resume/talks.liquid %}
+                {% when 'affiliations' %}
+                  {% include resume/affiliations.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
