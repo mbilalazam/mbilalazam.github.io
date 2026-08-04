@@ -275,6 +275,46 @@
     }
   ],
 
+  "conferences": [
+    {
+      "name": "Vibe Coding Hackathon",
+      "date": "2025.06",
+      "location": "Lemont, USA",
+      "host": "Argonne National Laboratory, United States"
+    },
+    {
+      "name": "PSE AI Hackathon",
+      "date": "2025.01",
+      "location": "Lemont, USA",
+      "host": "Argonne National Laboratory, United States"
+    },
+    {
+      "name": "ESCAPE Data Science for Astronomers, Astroparticle & Particle Physics Summer School",
+      "date": "2021.06",
+      "location": "Annecy, France",
+      "host": "Laboratoire d'Annecy de Physique des Particules (Annecy Particle Physics Laboratory)"
+    },
+    {
+      "name": "IV Joint ICTP-Trieste/ICTP-SAIFR School on Cosmology",
+      "date": "2021.01",
+      "location": "São Paulo, Brazil",
+      "host": "ICTP South American Institute for Fundamental Research",
+      "summary": "Challenges for the Standard Cosmological Model."
+    },
+    {
+      "name": "7th School on LHC Physics",
+      "date": "2018.08",
+      "location": "Islamabad, Pakistan",
+      "host": "National Centre for Physics, Pakistan"
+    },
+    {
+      "name": "Workshop on Information, Black Holes and Quantum Theory",
+      "date": "2018.03",
+      "location": "Lahore, Pakistan",
+      "host": "Abdus Salam School of Mathematical Sciences, Pakistan"
+    }
+  ],
+
   "certificates": [
     {
       "name": "AI for Science on Supercomputers: Advanced (Badge)",
