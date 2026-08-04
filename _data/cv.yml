@@ -238,51 +238,6 @@
     institution: Department of Physics Seminar
     department: Govt. Postgraduate College, Sahiwal, Pakistan
     year: '2017.03'
-- title: Projects
-  type: time_table
-  contents:
-  - title: Exotic Matter and Search for Magnetic Monopoles (MoEDAL at CERN)
-    year: 2018.08 - 2018.08
-    description:
-    - Discussed exotic matter and its role in explaining non-baryonic physics beyond the Standard Model,
-      with a focus on magnetic monopoles via Dirac and 't Hooft treatments and their experimental search
-      at CERN through the MoEDAL experiment.
-  - title: What is the meaning of "same" and "different" in context of measurements?
-    year: 2018.06 - 2018.08
-    description:
-    - Designed and conducted an experiment using conical pendulums to study the agreement between theoretical
-      predictions and experimental results.
-  - title: Solar Neutrino Problem
-    year: 2018.01 - 2018.05
-    description:
-    - Studied the solar neutrino problem and its theoretical and experimental resolution, with detailed
-      discussions on neutrino flavor mixing via the PMNS matrix and two-neutrino mixing approximations
-      used in oscillation data analysis.
-  - title: Majorana Fermions and Topological Superconductors
-    year: 2018.01 - 2018.05
-    description:
-    - Studied topological superconductors and their connection to Majorana fermions, including a comparison
-      with Dirac fermions and a pedagogical review of topological superconductivity. Detailed the Bogoliubov–de
-      Gennes (BdG) Hamiltonian via mean-field theory, with emphasis on the spinless one-dimensional p-wave
-      topological superconductor case.
-  - title: Study of Optical Properties of Isotropic Materials by Reflection SE
-    year: 2017.09 - 2017.12
-    description:
-    - Studied isotropic thin films by obtaining ellipsometric parameters Ψ and Δ using J.A. Woollam's
-      Alpha-SE Ellipsometer, extracted n, k, and d, and verified the complex reflection coefficient ρ
-      using MATLAB. Also cross-validated the refractive index of glass thin films via Alpha-SE Ellipsometry
-      and Michelson Interferometry.
-- title: Volunteer
-  type: time_table
-  contents:
-  - title: Assistant to Prof. Dr. Zelimir Djurcic
-    institution: Argonne National Laboratory, Lemont, United States
-    year: 2023.09 - 2023.12
-    description:
-    - Illinois Mathematics and Science Academy interns programme at Argonne National Laboratory.
-  - title: Check-in Judge
-    institution: Regional Bridge Building (Breaking) Contest, Chicago, United States
-    year: 2022.02 - 2022.02
 - title: Honors and Awards
   type: time_table
   contents:
@@ -318,6 +273,17 @@
   - title: Student Member of the College Council
     institution: Govt. Postgraduate College, Sahiwal, Pakistan
     year: '2015'
+- title: Volunteer
+  type: time_table
+  contents:
+  - title: Assistant to Prof. Dr. Zelimir Djurcic
+    institution: Argonne National Laboratory, Lemont, United States
+    year: 2023.09 - 2023.12
+    description:
+    - Illinois Mathematics and Science Academy interns programme at Argonne National Laboratory.
+  - title: Check-in Judge
+    institution: Regional Bridge Building (Breaking) Contest, Chicago, United States
+    year: 2022.02 - 2022.02
 - title: Professional Affiliations
   type: time_table
   contents:
@@ -464,3 +430,37 @@
     - Science Writing
     - Physics Education
     - Data Visualization
+- title: Projects
+  type: time_table
+  contents:
+  - title: Exotic Matter and Search for Magnetic Monopoles (MoEDAL at CERN)
+    year: 2018.08 - 2018.08
+    description:
+    - Discussed exotic matter and its role in explaining non-baryonic physics beyond the Standard Model,
+      with a focus on magnetic monopoles via Dirac and 't Hooft treatments and their experimental search
+      at CERN through the MoEDAL experiment.
+  - title: What is the meaning of "same" and "different" in context of measurements?
+    year: 2018.06 - 2018.08
+    description:
+    - Designed and conducted an experiment using conical pendulums to study the agreement between theoretical
+      predictions and experimental results.
+  - title: Solar Neutrino Problem
+    year: 2018.01 - 2018.05
+    description:
+    - Studied the solar neutrino problem and its theoretical and experimental resolution, with detailed
+      discussions on neutrino flavor mixing via the PMNS matrix and two-neutrino mixing approximations
+      used in oscillation data analysis.
+  - title: Majorana Fermions and Topological Superconductors
+    year: 2018.01 - 2018.05
+    description:
+    - Studied topological superconductors and their connection to Majorana fermions, including a comparison
+      with Dirac fermions and a pedagogical review of topological superconductivity. Detailed the Bogoliubov–de
+      Gennes (BdG) Hamiltonian via mean-field theory, with emphasis on the spinless one-dimensional p-wave
+      topological superconductor case.
+  - title: Study of Optical Properties of Isotropic Materials by Reflection SE
+    year: 2017.09 - 2017.12
+    description:
+    - Studied isotropic thin films by obtaining ellipsometric parameters Ψ and Δ using J.A. Woollam's
+      Alpha-SE Ellipsometer, extracted n, k, and d, and verified the complex reflection coefficient ρ
+      using MATLAB. Also cross-validated the refractive index of glass thin films via Alpha-SE Ellipsometry
+      and Michelson Interferometry.
