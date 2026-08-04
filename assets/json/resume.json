@@ -3,7 +3,7 @@
     "name": "Muhammad Bilal Azam",
     "label": "Graduate Research Assistant | PhD Candidate in Physics",
     "image": "assets/img/prof_pic.jpg",
-    "email": "azam@anl.gov",
+    "email": "bilalazam31@gmail.com",
     "url": "https://mbilalazam.github.io",
     "summary": "PhD candidate in Physics at Illinois Institute of Technology and Graduate Research Assistant at Argonne National Laboratory. Member of the DUNE Collaboration, specializing in AI/ML-based neutrino event reconstruction, simulation, and analysis for the DUNE Near Detector Prototype (2×2).",
     "location": {
@@ -18,6 +18,11 @@
         "network": "LinkedIn",
         "username": "muhammad-bilal-azam",
         "url": "https://www.linkedin.com/in/muhammad-bilal-azam-8844ab137/"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0002-0272-8287",
+        "url": "https://orcid.org/0000-0002-0272-8287"
       },
       {
         "network": "Google Scholar",
@@ -42,33 +47,42 @@
     {
       "name": "Argonne National Laboratory",
       "position": "Graduate Research Assistant",
+      "location": "Lemont, United States",
       "url": "https://www.anl.gov/",
       "startDate": "2022-06-01",
-      "summary": "Contributing to detector development and data analysis for the DUNE experiment, with focus on calibration system design, generator validation, and AI-driven event reconstruction on high-performance computing systems."
+      "summary": "Detector development and data analysis for the Deep Underground Neutrino Experiment (DUNE).",
+      "highlights": [
+        "Photon Detection Calibration System: design, simulation, and testing of photon detection calibration systems for DUNE detector prototypes.",
+        "Neutrino Event Generator and Multiplicity Studies: charged-current multiplicity studies comparing measured data with neutrino generator simulations, to select the optimal generator for future DUNE analyses.",
+        "Event Selection Optimization and AI/ML Reconstruction: tuning simulated events, optimizing neutrino event selection, and enhancing AI/ML-based particle reconstruction using HPC workflows and hyperparameter optimization, including systematic uncertainty studies."
+      ]
+    },
+    {
+      "name": "Lahore University of Management Sciences (LUMS)",
+      "position": "Research Assistant for Course Translation",
+      "location": "Lahore, Pakistan",
+      "url": "https://lums.edu.pk/",
+      "startDate": "2020-10-01",
+      "endDate": "2021-01-01",
+      "summary": "Learning How to Learn (Adaptation Project): adapted and translated course assessments from English to Urdu for the Coursera course by Barbara Oakley and Dr. Terrence Sejnowski."
     },
     {
       "name": "Lahore University of Management Sciences (LUMS)",
       "position": "Research Assistant",
+      "location": "Lahore, Pakistan",
       "url": "https://lums.edu.pk/",
       "startDate": "2019-06-01",
       "endDate": "2020-07-01",
-      "summary": "Worked on dark energy models in curved spacetime under causal set theory."
+      "summary": "Everpresent Lambda in the Closed Universe: studied the effects of strong and weak curvature on dark energy behavior, developed a formalism for fluctuating Λ including metric functional derivatives, and worked on incorporating CMB anisotropies into the model."
     },
     {
-      "name": "FAST National University of Computer and Emerging Sciences",
-      "position": "Visiting Lecturer (Physics)",
-      "url": "https://nu.edu.pk/",
-      "startDate": "2019-08-01",
-      "endDate": "2021-06-01",
-      "summary": "Delivered undergraduate lectures in applied physics and electronics."
-    },
-    {
-      "name": "University of Sahiwal",
-      "position": "Visiting Lecturer (Physics)",
-      "url": "https://www.uosahiwal.edu.pk/",
-      "startDate": "2019-08-01",
-      "endDate": "2021-06-01",
-      "summary": "Taught advanced physics courses including Relativity, Quantum Physics, and Electromagnetic Theory."
+      "name": "Lahore University of Management Sciences (LUMS)",
+      "position": "Master's Thesis",
+      "location": "Lahore, Pakistan",
+      "url": "https://lums.edu.pk/",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-01",
+      "summary": "Dark Energy in Causal Set Theory: addressed the fine-tuning and naturalness problems of dark energy in a spherical topology universe using unimodular gravity and causal set theory, based on the fluctuating cosmological constant model of Ahmed et al. (2004), under the supervision of Dr. Maqbool Ahmed."
     }
   ],
 
@@ -78,123 +92,252 @@
       "location": "Chicago, United States",
       "url": "https://www.iit.edu/",
       "area": "Physics",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2021-08-01",
-      "summary": "PhD in Experimental High Energy Physics under Prof. Dr. Zelimir Djurcic; research focuses on AI/ML-based neutrino reconstruction and DUNE 2×2 data analysis."
+      "summary": "Doctor of Philosophy in Physics. Thesis supervisor: Prof. Dr. Zelimir Djurcic. Research on AI/ML-based neutrino reconstruction and DUNE 2×2 data analysis."
     },
     {
       "institution": "Lahore University of Management Sciences (LUMS)",
       "location": "Lahore, Pakistan",
       "url": "https://lums.edu.pk/",
       "area": "Physics",
-      "studyType": "MS",
+      "studyType": "Master of Science",
       "startDate": "2017-08-01",
       "endDate": "2019-06-01",
-      "summary": "Master’s thesis on dark energy in causal set theory, addressing the fine-tuning problem via unimodular gravity."
+      "summary": "Master of Science in Physics. Thesis title: Dark Energy in Causal Set Theory. Thesis supervisor: Prof. Dr. Maqbool Ahmed."
     },
     {
-      "institution": "Government Graduate College",
-      "location": "Sahiwal, Pakistan",
-      "area": "Physics and Mathematics",
-      "studyType": "BSc, MSc",
-      "startDate": "2011-11-01",
+      "institution": "Bahauddin Zakariya University",
+      "location": "Multan, Pakistan",
+      "area": "Physics",
+      "studyType": "Master of Science",
+      "startDate": "2013-10-01",
       "endDate": "2015-05-01",
-      "summary": "Bachelor’s and Master’s studies emphasizing theoretical and experimental physics."
+      "summary": "Masters of Science in Physics."
+    },
+    {
+      "institution": "Bahauddin Zakariya University",
+      "location": "Multan, Pakistan",
+      "area": "Mathematics and Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2011-11-01",
+      "endDate": "2013-05-01",
+      "summary": "Bachelors of Science in Mathematics and Physics."
+    }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "Argonne National Laboratory",
+      "position": "Assistant to Prof. Dr. Zelimir Djurcic",
+      "location": "Lemont, United States",
+      "url": "https://www.anl.gov/",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "summary": "Illinois Mathematics and Science Academy interns programme at Argonne National Laboratory."
+    },
+    {
+      "organization": "Regional Bridge Building (Breaking) Contest",
+      "position": "Check-in Judge",
+      "location": "Chicago, United States",
+      "startDate": "2022-02-01",
+      "endDate": "2022-02-01"
     }
   ],
 
   "awards": [
     {
-      "title": "Department of Energy (DOE) Graduate Research Grant",
-      "date": "2023-09-01",
+      "title": "Department of Energy (DOE) Grant for Graduate Research",
+      "date": "2023-09",
       "awarder": "U.S. Department of Energy",
-      "summary": "Selected for the DOE grant for participation in Intensity Frontier Neutrino Physics."
+      "summary": "Participation in Intensity Frontier Neutrino Physics. Illinois Institute of Technology, Chicago, IL, United States (Sep. 2023 – May 2025)."
     },
     {
-      "title": "DOE-INFN Summer Exchange Fellowship",
-      "date": "2023-06-01",
-      "awarder": "DOE & INFN Italy",
-      "summary": "Selected to study the performance of DUNE Near Detector systems at Laboratori Nazionali del Sud, Catania, Italy."
+      "title": "DOE-INFN Summer Exchange Programme",
+      "date": "2023-06",
+      "awarder": "U.S. Department of Energy and Istituto Nazionale di Fisica Nucleare",
+      "summary": "Study of the performance of a Near Detector for the DUNE experiment at FNAL. Laboratori Nazionali del Sud, Catania, Italy."
+    },
+    {
+      "title": "Mentor, Scipy2020 Scientific Computing with Python",
+      "date": "2020",
+      "awarder": "SciPy Conference"
     },
     {
       "title": "Best Paper Award",
-      "date": "2020-02-01",
+      "date": "2020",
       "awarder": "University of Sahiwal, Pakistan",
-      "summary": "Awarded for outstanding research presentation at the 2020 Research Symposium."
+      "summary": "2020 Research Symposium."
     },
     {
-      "title": "First Position in LHC Physics School Project Competition",
-      "date": "2018-08-01",
+      "title": "Token of Appreciation for Editor-in-Chief of Zauq",
+      "date": "2019",
+      "awarder": "LUMS Literary Society, Lahore, Pakistan"
+    },
+    {
+      "title": "First Position, Project Presentation, 7th School on LHC Physics",
+      "date": "2018",
       "awarder": "National Centre for Physics, Islamabad, Pakistan"
+    },
+    {
+      "title": "Position Recognition Certificate for Highest Marks in MSc Physics",
+      "date": "2017",
+      "awarder": "Govt. Postgraduate College, Sahiwal, Pakistan"
+    },
+    {
+      "title": "Student Member of the College Council",
+      "date": "2015",
+      "awarder": "Govt. Postgraduate College, Sahiwal, Pakistan"
     }
   ],
 
   "certificates": [
     {
       "name": "AI for Science on Supercomputers: Advanced (Badge)",
-      "date": "2024-04-01",
-      "issuer": "Argonne National Laboratory",
-      "url": "https://openbadgefactory.com/v1/assertion/f2cc7ba7186aa3c54c5c59ceff29b3561bacc11f"
+      "date": "2024-04",
+      "issuer": "Argonne National Laboratory, United States",
+      "url": "https://openbadgefactory.com/v1/assertion/f2cc7ba7186aa3c54c5c59ceff29b3561bacc11f",
+      "summary": "AI-driven Science on Supercomputers Student Training Program."
     }
   ],
 
   "publications": [
     {
+      "name": "Operation and performance of ProtoDUNE Dual Phase liquid argon time projection chamber",
+      "publisher": "arXiv preprint, arXiv:2607.15927",
+      "releaseDate": "2026-07",
+      "url": "https://arxiv.org/abs/2607.15927"
+    },
+    {
+      "name": "Design of the DUNE horizontal drift far detector charge readout electronics and performance in ProtoDUNE-HD",
+      "publisher": "arXiv preprint, arXiv:2604.23966",
+      "releaseDate": "2026-04",
+      "url": "https://arxiv.org/abs/2604.23966"
+    },
+    {
+      "name": "Characterization of UV optical components for photon detector calibration in liquid argon TPCs",
+      "publisher": "Journal of Instrumentation 21, P06013",
+      "releaseDate": "2026-02",
+      "url": "https://doi.org/10.1088/1748-0221/21/06/P06013"
+    },
+    {
+      "name": "Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision",
+      "publisher": "arXiv preprint, arXiv:2602.17582",
+      "releaseDate": "2026-02",
+      "url": "https://arxiv.org/abs/2602.17582"
+    },
+    {
+      "name": "Reconstruction of atmospheric neutrinos in DUNE's horizontal-drift far-detector module",
+      "publisher": "arXiv preprint, arXiv:2601.05697",
+      "releaseDate": "2026-01",
+      "url": "https://arxiv.org/abs/2601.05697"
+    },
+    {
+      "name": "Measurement of Exclusive π⁺–argon Interactions Using ProtoDUNE-SP",
+      "publisher": "arXiv preprint, arXiv:2511.13462",
+      "releaseDate": "2025-11",
+      "url": "https://arxiv.org/abs/2511.13462"
+    },
+    {
+      "name": "First Measurement of π⁺-Ar and p-Ar Total Inelastic Cross Sections in the Sub-GeV Energy Regime with ProtoDUNE-SP Data",
+      "publisher": "arXiv preprint, arXiv:2511.11925",
+      "releaseDate": "2025-11",
+      "url": "https://arxiv.org/abs/2511.11925"
+    },
+    {
+      "name": "Identification of low-energy kaons in the ProtoDUNE-SP detector",
+      "publisher": "arXiv preprint, arXiv:2510.08380",
+      "releaseDate": "2025-10",
+      "url": "https://arxiv.org/abs/2510.08380"
+    },
+    {
+      "name": "Towards mono-energetic virtual ν beam cross-section measurements: A feasibility study of ν-Ar interaction analysis with DUNE-PRISM",
+      "publisher": "arXiv preprint, arXiv:2509.07664",
+      "releaseDate": "2025-09",
+      "url": "https://arxiv.org/abs/2509.07664"
+    },
+    {
+      "name": "Operation of a Modular 3D-Pixelated Liquid Argon Time-Projection Chamber in a Neutrino Beam",
+      "publisher": "arXiv preprint, arXiv:2509.07012",
+      "releaseDate": "2025-09",
+      "url": "https://arxiv.org/abs/2509.07012"
+    },
+    {
+      "name": "Spatial and temporal evaluations of the liquid argon purity in ProtoDUNE-SP",
+      "publisher": "Journal of Instrumentation 20, P09008",
+      "releaseDate": "2025-07",
+      "url": "https://doi.org/10.1088/1748-0221/20/09/P09008"
+    },
+    {
+      "name": "European Contributions to Fermilab Accelerator Upgrades and Facilities for the DUNE Experiment",
+      "publisher": "arXiv preprint, arXiv:2503.23744",
+      "releaseDate": "2025-03",
+      "url": "https://arxiv.org/abs/2503.23744"
+    },
+    {
       "name": "DUNE Software and Computing Research and Development",
-      "publisher": "arXiv",
-      "releaseDate": "2025-03-24",
+      "publisher": "arXiv preprint, arXiv:2503.23743",
+      "releaseDate": "2025-03",
       "url": "https://arxiv.org/abs/2503.23743"
     },
     {
-      "name": "The DUNE Science Program",
-      "publisher": "arXiv",
-      "releaseDate": "2025-03-22",
-      "url": "https://arxiv.org/abs/2503.23291"
-    },
-    {
       "name": "The DUNE Phase II Detectors",
-      "publisher": "arXiv",
-      "releaseDate": "2025-03-22",
+      "publisher": "arXiv preprint, arXiv:2503.23293",
+      "releaseDate": "2025-03",
       "url": "https://arxiv.org/abs/2503.23293"
     },
     {
-      "name": "Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning",
-      "publisher": "arXiv",
-      "releaseDate": "2025-02-11",
-      "url": "https://arxiv.org/abs/2502.06637"
+      "name": "The DUNE Science Program",
+      "publisher": "arXiv preprint, arXiv:2503.23291",
+      "releaseDate": "2025-03",
+      "url": "https://arxiv.org/abs/2503.23291"
     },
     {
-      "name": "Track-length extension fitting algorithm for energy measurement in liquid argon TPCs",
-      "publisher": "Physical Review D",
-      "releaseDate": "2024-10-01",
+      "name": "The track-length extension fitting algorithm for energy measurement of interacting particles in liquid argon TPCs and its performance with ProtoDUNE-SP data",
+      "publisher": "Journal of Instrumentation 20, P02021",
+      "releaseDate": "2025-02",
+      "url": "https://doi.org/10.1088/1748-0221/20/02/P02021"
+    },
+    {
+      "name": "Neutrino interaction vertex reconstruction in DUNE with Pandora deep learning",
+      "publisher": "European Physical Journal C 85, 697",
+      "releaseDate": "2025-02",
+      "url": "https://doi.org/10.1140/epjc/s10052-025-14313-8"
+    },
+    {
+      "name": "DUNE Phase II: scientific opportunities, detector concepts, technological solutions",
+      "publisher": "Journal of Instrumentation 19, P12005",
+      "releaseDate": "2024-08",
+      "url": "https://doi.org/10.1088/1748-0221/19/12/P12005"
+    },
+    {
+      "name": "First measurement of the total inelastic cross section of positively charged kaons on argon at energies between 5.0 and 7.5 GeV",
+      "publisher": "Physical Review D 110, 092011",
+      "releaseDate": "2024-08",
       "url": "https://doi.org/10.1103/PhysRevD.110.092011"
-    },
-    {
-      "name": "First Physics Studies with DUNE Near Detector Prototype (2×2)",
-      "publisher": "Bulletin of the American Physical Society",
-      "releaseDate": "2024-04-05"
     }
   ],
 
   "skills": [
     {
-      "name": "Programming & Analysis",
-      "keywords": ["C++", "Python", "ROOT", "LaTeX", "MATLAB", "Julia", "Bash", "HPC"]
+      "name": "Programming Languages",
+      "keywords": ["C", "C++", "Python", "Julia", "ROOT", "LaTeX", "MATLAB", "Mathematica", "Maple", "Java", "JavaScript", "Bash"]
     },
     {
-      "name": "Machine Learning & AI",
-      "keywords": ["Deep Learning", "PyTorch", "TensorFlow", "Generative AI", "NLP", "CUDA"]
+      "name": "AI and Machine Learning",
+      "keywords": ["Deep Learning", "Large Language Models", "NLP/NLU", "Neural Networks", "Generative AI", "PyTorch", "TensorFlow", "CUDA", "HPC"]
     },
     {
-      "name": "Physics & Experimentation",
-      "keywords": [
-        "Neutrino Physics",
-        "Event Reconstruction",
-        "Detector Simulation",
-        "Cosmology",
-        "Photon Detection",
-        "Causal Set Theory"
-      ]
+      "name": "Laboratory",
+      "keywords": ["Dimensional Analysis", "Logger Pro", "Mach–Zehnder Interferometer", "Fabry–Pérot Interferometer", "alpha-SE Ellipsometer", "Oscilloscope", "Notebook Skills"]
+    },
+    {
+      "name": "Physics and Experimentation",
+      "keywords": ["Neutrino Physics", "Event Reconstruction", "Detector Simulation", "Cosmology", "Photon Detection", "Causal Set Theory"]
+    },
+    {
+      "name": "Software and Tools",
+      "keywords": ["Microsoft Office", "NI Multisim", "Edraw Max", "Adobe Photoshop", "Mendeley"]
     }
   ],
 
@@ -208,10 +351,10 @@
       "name": "Intelligent Physical Systems",
       "keywords": [
         "Neutrino Experiments",
-		"Mathematical and Statistical Models",
+        "Mathematical and Statistical Models",
         "Machine Learning Applications",
         "High-Performance Computing (HPC)"
-      ]  
+      ]
     },
     {
       "name": "Science Communication",
@@ -226,15 +369,34 @@
 
   "projects": [
     {
-      "name": "DUNE 2×2 Near Detector Prototype",
-	  "summary": "Analyzing charged-track multiplicity, event selection, and reconstruction performance using ML-assisted pipelines for the DUNE Near Detector Prototype (2×2).",
-      "highlights": ["Photon Detection Calibration and Simulation", "Neutrino Generator and Multiplicity Analysis", "AI/ML-Driven Event Reconstruction and Selection Optimization"],
-      "url": "https://dune.fnal.gov/"
+      "name": "Exotic Matter and Search for Magnetic Monopoles (MoEDAL at CERN)",
+      "startDate": "2018-08-01",
+      "endDate": "2018-08-01",
+      "summary": "Discussed exotic matter and its role in explaining non-baryonic physics beyond the Standard Model, with a focus on magnetic monopoles via Dirac and 't Hooft treatments and their experimental search at CERN through the MoEDAL experiment."
     },
     {
-      "name": "Dark Energy in Causal Set Theory",
-      "summary": "Developed a formalism to address the cosmological constant problem using unimodular gravity and fluctuating Λ in a closed universe.",
-      "highlights": ["Causal set–based dark energy modeling", "Implementation within unimodular gravity", "Analysis of cosmological constant fine-tuning"]
+      "name": "What is the meaning of \"same\" and \"different\" in context of measurements?",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-01",
+      "summary": "Designed and conducted an experiment using conical pendulums to study the agreement between theoretical predictions and experimental results."
+    },
+    {
+      "name": "Solar Neutrino Problem",
+      "startDate": "2018-01-01",
+      "endDate": "2018-05-01",
+      "summary": "Studied the solar neutrino problem and its theoretical and experimental resolution, with detailed discussions on neutrino flavor mixing via the PMNS matrix and two-neutrino mixing approximations used in oscillation data analysis."
+    },
+    {
+      "name": "Majorana Fermions and Topological Superconductors",
+      "startDate": "2018-01-01",
+      "endDate": "2018-05-01",
+      "summary": "Studied topological superconductors and their connection to Majorana fermions, including a comparison with Dirac fermions and a pedagogical review of topological superconductivity. Detailed the Bogoliubov–de Gennes (BdG) Hamiltonian via mean-field theory, with emphasis on the spinless one-dimensional p-wave topological superconductor case."
+    },
+    {
+      "name": "Study of Optical Properties of Isotropic Materials by Reflection SE",
+      "startDate": "2017-09-01",
+      "endDate": "2017-12-01",
+      "summary": "Studied isotropic thin films by obtaining ellipsometric parameters Ψ and Δ using J.A. Woollam's Alpha-SE Ellipsometer, extracted n, k, and d, and verified the complex reflection coefficient ρ using MATLAB. Also cross-validated the refractive index of glass thin films via Alpha-SE Ellipsometry and Michelson Interferometry."
     }
   ]
 }
