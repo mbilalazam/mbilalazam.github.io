@@ -9,7 +9,7 @@ authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
     affiliations:
-      name: Lahore University of Management Sciences
+      name: Illinois Institute of Technology
 bibliography: 2022-05-02-dark-matter-evolution-history-of-universe.bib
 thumbnail: /assets/img/posts/2022-05-02-dark-matter-evolution-history-of-universe/cover.png
 toc:

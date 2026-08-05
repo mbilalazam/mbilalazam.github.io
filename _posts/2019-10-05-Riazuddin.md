@@ -10,7 +10,7 @@ authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
     affiliations:
-      name: Illinois Institute of Technology
+      name: Lahore University of Management Sciences
 # Optional: social sharing image (uncomment and replace path)
 thumbnail: /assets/img/posts/2019-10-05-Riazuddin/riazuddin.jpg
 ---

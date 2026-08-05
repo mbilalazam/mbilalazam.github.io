@@ -9,7 +9,7 @@ authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
     affiliations:
-      name: Lahore University of Management Sciences
+      name: Illinois Institute of Technology
 tags: cosmology big-bang nucleosynthesis cmb galaxy-formation structure-evolution
 bibliography: 2022-04-10-evolution-history-of-universe-10-seconds-to-10-billion-years.bib
 thumbnail: /assets/img/posts/2022-04-10-evolution-history-of-universe-10-seconds-to-10-billion-years/cover.png
