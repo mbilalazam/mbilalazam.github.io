@@ -76,9 +76,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/ai-reconstructs-particle-showers/";
           
         },
-      },{id: "post-dark-matter",
+      },{id: "post-dark-matter-evidence-classification-and-candidates",
         
-          title: "Dark Matter",
+          title: "Dark Matter: Evidence, Classification and Candidates",
         
         description: "Understanding the invisible mass of the universe — its evidence, classification, and candidates from baryonic MACHOs to supersymmetric WIMPs.",
         section: "Posts",
@@ -135,7 +135,7 @@ ninja.data = [{
         
           title: "Why do we need “Quantum Gravity”?",
         
-        description: "Motivation behind quantum gravity and causal sets.",
+        description: "Why gravity resists quantization — the motivations for a quantum theory of gravity, its cut-off scales, and the main approaches including causal sets.",
         section: "Posts",
         handler: () => {
           
@@ -150,7 +150,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2019/Riazuddin/";
+            window.location.href = "/blog/2019/riazuddin/";
           
         },
       },{id: "projects-when-spacetime-becomes-countable-causal-sets-and-the-fluctuating-lambda",
