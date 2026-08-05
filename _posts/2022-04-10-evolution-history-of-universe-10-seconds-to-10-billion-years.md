@@ -19,12 +19,11 @@ toc:
   - name: CMBR
   - name: Recombination and Decoupling
   - name: The Cosmic Dark Ages
-  - name: The Reionization Epoch 
-  - name: The Cosmic Dark Ages 
+  - name: The Reionization Epoch
   - name: Toward Structure Formation
 ---
 
-## Big Bang Nucleosynthesis ($t \sim 10 \, \text{seconds} \rightarrow 20 \, \text{minutes}$)
+## Big Bang Nucleosynthesis ($t \sim 10 \, \text{seconds} \rightarrow 20 \, \text{minutes}$) {#big-bang-nucleosynthesis}
 
 **Big Bang Nucleosynthesis (BBN)**, also known as *primordial nucleosynthesis*, occurred from roughly ten seconds to twenty minutes after the Big Bang and spanned across the entire universe. This era is notable for the formation of atomic nuclei through nuclear reactions. During this phase, deuterons formed as protons fused with neutrons, releasing photons in the process. These deuterons then reacted with other deuterons, protons, and neutrons to produce helium–3, helium–4, hydrogen, and lithium–7 nuclei (<d-cite key="alpher1948origin"></d-cite>).  BBN also led to an important realization: protons and neutrons were nearly equal in number at the end of the hadron epoch, and there were no sufficiently energetic photons left to dissociate these particles. If all protons and neutrons had fused to form deuterium and helium, no hydrogen would remain. This led to the conjecture that there must be a vast abundance of photons — roughly **one billion photons per baryon** in the universe.  
 
@@ -32,7 +31,7 @@ This insight originated from the famous *Alpher–Bethe–Gamow ($\alpha\beta\ga
 
 ---
 
-## The Photon Epoch ($t \sim 20 \, \text{minutes} \rightarrow 380{,}000 \, \text{years}$)
+## The Photon Epoch ($t \sim 20 \, \text{minutes} \rightarrow 380{,}000 \, \text{years}$) {#the-photon-epoch}
 
 As BBN ended, the universe entered the **Photon Epoch**, lasting for the next 380,000 years. This was a *radiation–dominated era*, during which the universe existed as a hot, dense plasma composed mainly of atomic nuclei, electrons, and photons. However, because radiation energy density scales with the inverse fourth power of the universe’s size, radiation diluted rapidly as the universe expanded. As the temperature dropped, photons ceased to interact frequently with nuclei. They began to free-stream through space, making the universe transparent and giving rise to the cosmic microwave background radiation (CMBR) spectrum (<d-cite key="wright1992cobe"></d-cite>). This transition marks the beginning of large–scale structure (LSS) formation, but before exploring LSS, let us take a brief look at the CMBR itself.
 
@@ -50,13 +49,13 @@ As BBN ended, the universe entered the **Photon Epoch**, lasting for the next 38
 </div>
 
 
-## Cosmic Microwave Background Radiation (CMBR)
+## Cosmic Microwave Background Radiation (CMBR) {#cmbr}
 
 The **Cosmic Microwave Background Radiation (CMBR)** provides the most direct evidence from the early universe, allowing us to study its physical state shortly after the Big Bang. It confirms that the **matter–radiation crossover** occurred at a redshift of approximately 1,100, nearly 50,000 years after the Big Bang — the last moment when the universe was still opaque. This boundary between the opaque and transparent universe is called the **surface of last scattering**. At that time, the temperature of the CMBR was about $3,000~\text{K}$, and it followed an almost perfect blackbody spectrum. As the universe continued to expand, the photons were redshifted, reducing their energy and temperature uniformly. The present temperature of the CMBR is approximately $2.725~\text{K}$, which still matches an ideal blackbody distribution, though not perfectly — the small deviations correspond to minute temperature anisotropies in the early universe.  
 
 From these tiny fluctuations, cosmologists can infer the inhomogeneities that seeded the large-scale structures we observe today. In the late 20th century, the Cosmic Background Explorer (COBE) satellite<d-cite key="wright1992cobe"></d-cite> measured the CMBR intensity across the infrared region over a wide range of wavelengths to detect any anisotropies. It determined the CMBR temperature to be $2.725 \pm 0.002~\text{K}$, confirming the isotropy of the universe on the largest scales and, consequently, its overall homogeneity<d-footnote>COBE’s results were later refined by the WMAP and Planck missions, which measured even smaller anisotropies in the CMB.</d-footnote>.
 
-## The Recombination and Decoupling Era ($t \sim 380{,}000 \, \text{years}$)
+## The Recombination and Decoupling Era ($t \sim 380{,}000 \, \text{years}$) {#recombination-and-decoupling}
 
 When photons began to free-stream across the universe, forming the basis of today’s *relic radiation*, the universe experienced its *first moment of calm* after the Hot Big Bang. These non–interacting photons allowed electrons to combine with protons, forming neutral atoms — a process known as **recombination**. As recombination progressed, scattering among particles diminished and photons were finally able to propagate freely throughout space. This event marked the **decoupling** of matter and radiation, after which photons no longer scattered as they had before. This decoupling occurred on a spherical surface known as the **surface of last scattering** (or **Last Scattering Surface, LSS**), whose radius corresponds to the distance traveled by each photon since its last interaction during recombination.
 

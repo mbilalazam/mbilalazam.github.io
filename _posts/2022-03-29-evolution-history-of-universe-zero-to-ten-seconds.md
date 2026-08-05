@@ -15,14 +15,12 @@ bibliography: 2022-03-29-evolution-history-of-universe-zero-to-ten-seconds.bib
 thumbnail: /assets/img/posts/2022-03-29-evolution-history-of-universe-zero-to-ten-seconds/cover.png
 toc:
   - name: Introduction
-  - name: The Planck Era 
-  - name: The Grand Unification Epoch 
-  - name: The Quark Epoch 
+  - name: The Planck Era
+  - name: The Grand Unification Epoch
+  - name: The Quark Epoch
   - name: The Hadron Epoch
-  - name: The Lepton Epoch 
-    subsections:
-      - name: Neutrino Decoupling
-      - name: Leptogenesis 
+  - name: The Lepton Epoch
+  - name: Leptogenesis
 ---
 
 ## Introduction
@@ -55,13 +53,13 @@ These stages are further divided into several **epochs** based on theoretical mo
 
 ---
 
-## The Planck Era ($t < 10^{-43}$ seconds)
+## The Planck Era ($t < 10^{-43}$ seconds) {#the-planck-era}
 
 The era that began just after the Big Bang and lasted up to one Planck second ($10^{-43}$ seconds) is known as the **Planck Era**. Einstein’s *General Relativity* becomes applicable from this scale onward, but there exists neither an implementable theory nor an observational probe to reveal what occurred *before* the Planck time. It is theorized that during this epoch, all fundamental forces — gravitational, electromagnetic, strong, and weak — were unified into a single interaction, often called the force of quantum gravity<d-footnote>The unification of all four fundamental forces is a hypothetical state described by various approaches to quantum gravity, including string theory and loop quantum gravity.</d-footnote>. At the end of this epoch, the grand unified force (the combination of electroweak and strong nuclear forces) separated from gravity — marking the **first symmetry breaking** in the history of the universe.
 
 ---
 
-## The Grand Unification Epoch ($10^{-43} \, \text{seconds} \rightarrow 10^{-35} \, \text{seconds}$)
+## The Grand Unification Epoch ($10^{-43} \, \text{seconds} \rightarrow 10^{-35} \, \text{seconds}$) {#the-grand-unification-epoch}
 
 Beginning from $10^{-43}$ seconds, the **Grand Unification Epoch** lasted until about $10^{-35}$ seconds. It is the first known era for which we have *somewhat* applicable physical theories. Many crucial events occurred during this epoch. It triggered the phenomenon of **cosmic inflation**, proposed by *Alan Guth* in the early 1980s (<d-cite key="guth1981inflation"></d-cite>). During this period, the electroweak force separated from the **strong nuclear force**, marking the start of the Electroweak Era, which continued until approximately $10^{-12}$ seconds. Inflation is regarded as an exponential expansion of space that lasted from about $10^{-36}$ seconds to $10^{-32}$ seconds. This rapid expansion distributed the newly formed elementary particles evenly throughout the universe and cooled its overall temperature. 
 
@@ -69,7 +67,7 @@ As inflation ended, an enormous amount of energy was released, reheating the uni
 
 ---
 
-## The Quark Epoch ($10^{-12} \, \text{seconds} \rightarrow 10^{-6} \, \text{seconds}$)
+## The Quark Epoch ($10^{-12} \, \text{seconds} \rightarrow 10^{-6} \, \text{seconds}$) {#the-quark-epoch}
 
 The Early Universe Era began with the **Quark Epoch**, which lasted up to about $10^{-6}$ seconds. Although all four fundamental forces had by then separated, the universe remained extremely hot and dense — filled with a quark–gluon plasma. Within this fiery soup, quarks began to bind together through gluons, forming composite particles known as hadrons. Around this time, the electromagnetic force decoupled from the weak nuclear force, allowing them to act independently. Another pivotal event occurred during this epoch: **baryogenesis** — a process responsible for creating an asymmetry between matter and antimatter in the universe.
 
@@ -77,13 +75,13 @@ This epoch marks the **first instance where matter began to dominate antimatter*
 
 ---
 
-## The Hadron Epoch ($10^{-6} \, \text{seconds} \rightarrow 10^{-4} \, \text{seconds}$)
+## The Hadron Epoch ($10^{-6} \, \text{seconds} \rightarrow 10^{-4} \, \text{seconds}$) {#the-hadron-epoch}
 
 Despite the effects of **baryogenesis**, the extremely high temperature of the early universe made it possible for hadrons to annihilate once again into free quarks, reducing the overall matter number density. However, the next — and very brief — epoch, known as the **Hadron Epoch**, firmly established the dominance of matter over antimatter. During this epoch, the universe witnessed the formation of what is often described as a **“protonic soup.”** Since the proton is the least massive hadron, this phase concluded when the temperature of the universe dropped below its threshold temperature of approximately $10^{13}$ kelvin<d-footnote>At temperatures higher than $10^{13}$ K, protons and neutrons could not remain bound and would dissociate into free quarks and gluons.</d-footnote>. By the end of this epoch, the universe was filled with free baryons, consisting mainly of protons, neutrons, photons, and a few other subatomic particles — setting the stage for the Lepton Epoch that followed.
 
 ---
 
-## The Lepton Epoch ($10^{-4} \, \text{seconds} \rightarrow 10 \, \text{seconds}$)
+## The Lepton Epoch ($10^{-4} \, \text{seconds} \rightarrow 10 \, \text{seconds}$) {#the-lepton-epoch}
 
 The Hadron Epoch was followed by the **Lepton Epoch**, which spanned from approximately $10^{-4}$ seconds to about $10$ seconds after the Big Bang. This epoch consisted of two significant phases: *neutrino decoupling* and *leptogenesis*.
 
@@ -93,7 +91,7 @@ Some scientists have suggested that, as a result of this decoupling, there must 
 
 ---
 
-## Leptogenesis ($t \sim 1 \, \text{second} \rightarrow 14 \, \text{seconds}$)
+## Leptogenesis ($t \sim 1 \, \text{second} \rightarrow 14 \, \text{seconds}$) {#leptogenesis}
 
 Immediately after the neutrino decoupling, the universe entered the phase of **leptogenesis**. During this period, heavier leptons such as tau and muon particles were produced, but as the temperature continued to decrease, most of these heavy leptons annihilated or decayed into their lighter counterpart — the electron. Similar to baryogenesis, leptogenesis culminated in the dominance of leptons over antileptons. At this stage, the universe resembled a **particle soup** composed of electrons, positrons, protons, neutrinos, neutrons, and photons.
 

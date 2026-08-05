@@ -81,7 +81,7 @@ To handle these issues, people suggested the systematic violations of Lorentz in
 
 ---
 
-### Restatement of the General Version of Causal Metric Hypothesis
+### Restatement of the General Version of Causal Metric Hypothesis {#restatement-of-the-general-version}
 
 In the start, we present the general statement, proposed by <d-cite key="Dribus2017"></d-cite>, as:
 
@@ -124,7 +124,7 @@ This, somewhat, seems to have a philosophical connection. However, it is equally
 
 ---
 
-### Technical Implementation of Causal Metric Hypothesis
+### Technical Implementation of Causal Metric Hypothesis {#technical-implementation}
 
 The technical implementation of CMH has its own meaning in the classical and quantum world. It is a matter of a great deal, what is the mathematical definition of the causal structure? Or what is the meaning of causal structure mathematically? Or how to identify causal structure in mathematical terms? In the following posts, we will stick to the classical causal metric hypothesis (CCMH), which models classical spacetime via a directed set. To make theory capable of giving the quantitative description of nature, some conditions or the *axioms* are imposed on it, for instance, the partially ordered sets in causal set theory. Usually, these axioms are applied to the hypothesis based on the physical intuition, but experimental and observational results also play their role, whenever it seems adequately necessary. In the next episode on CMH, we will study the quantitative and qualitative treatment of the classical causal metric hypothesis.
 
