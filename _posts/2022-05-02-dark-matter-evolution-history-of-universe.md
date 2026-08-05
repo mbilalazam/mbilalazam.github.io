@@ -4,7 +4,7 @@ title: "Dark Matter"
 description: "Understanding the invisible mass of the universe — its evidence, classification, and candidates from baryonic MACHOs to supersymmetric WIMPs."
 tags: physics cosmology dark-matter universe evolution
 date: 2022-05-02
-giscus_comments: true
+giscus_comments: false
 authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"

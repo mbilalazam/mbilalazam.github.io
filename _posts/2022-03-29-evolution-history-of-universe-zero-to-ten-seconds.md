@@ -4,7 +4,7 @@ title: "Evolution History of Universe: A Story from Zero to Ten Seconds"
 description: "From the Planck era to the lepton epoch — how our universe evolved in its first ten seconds."
 date: 2022-03-29
 featured: true
-giscus_comments: true
+giscus_comments: false
 authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
