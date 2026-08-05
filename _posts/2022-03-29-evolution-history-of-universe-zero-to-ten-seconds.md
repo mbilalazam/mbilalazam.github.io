@@ -33,7 +33,7 @@ Cosmologists categorize this evolution into three main stages:
 
 1. Very Early Universe 
 2. Early Universe
-3. Large–Scale Structure Formation2022-03-29-evolution-history-of-universe-zero-to-ten-seconds
+3. Large–Scale Structure Formation
 
 These stages are further divided into several **epochs** based on theoretical models, observational data, and experimental evidence.
 
