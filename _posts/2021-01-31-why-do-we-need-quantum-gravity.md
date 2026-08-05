@@ -2,18 +2,17 @@
 layout: distill
 title: "Why do we need “Quantum Gravity”?"
 description: "Why gravity resists quantization — the motivations for a quantum theory of gravity, its cut-off scales, and the main approaches including causal sets."
-tags: physics quantum-gravity causal-set-theory
 date: 2021-01-31
+featured: true
 giscus_comments: false
 authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
     affiliations:
       name: Lahore University of Management Sciences
-thumbnail: /assets/img/posts/2021-01-31-why-do-we-need-quantum-gravity/ch01_fig01_contents.png
-
+tags: physics quantum-gravity causal-set-theory
 bibliography: 2021-01-31-why-do-we-need-quantum-gravity.bib
-
+thumbnail: /assets/img/posts/2021-01-31-why-do-we-need-quantum-gravity/ch01_fig01_contents.png
 toc:
   - name: The Basic Idea
   - name: Motivations for Quantum Gravity

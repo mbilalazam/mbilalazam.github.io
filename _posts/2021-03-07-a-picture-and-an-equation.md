@@ -2,18 +2,17 @@
 layout: distill
 title: "A Picture and an Equation"
 description: "Exploring the connection between equations and diagrams — from Feynman’s visualization to causal structures in discrete spacetime."
-tags: physics quantum-gravity causal-set-theory feynman-diagram penrose-diagram
 date: 2021-03-07
+featured: false
 giscus_comments: false
 authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
     affiliations:
       name: Lahore University of Management Sciences
-thumbnail: /assets/img/posts/2021-03-07-a-picture-and-an-equation/Penguin_diagram_01.jpg
-
+tags: physics quantum-gravity causal-set-theory feynman-diagram penrose-diagram
 bibliography: 2021-03-07-a-picture-and-an-equation.bib
-
+thumbnail: /assets/img/posts/2021-03-07-a-picture-and-an-equation/Penguin_diagram_01.jpg
 toc:
   - name: An Equation and a Picture
   - name: A Picture and an Equation

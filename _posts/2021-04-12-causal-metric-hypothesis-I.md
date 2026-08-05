@@ -2,18 +2,17 @@
 layout: distill
 title: "Causal Metric Hypothesis–I"
 description: "Exploring the causal metric hypothesis, its philosophical roots, and its role in defining the discrete structure of spacetime within causal set theory."
-tags: physics quantum-gravity causal-set-theory spacetime metric-recovery
 date: 2021-04-12
+featured: false
 giscus_comments: false
 authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
     affiliations:
       name: Lahore University of Management Sciences
-thumbnail: /assets/img/posts/2021-04-12-causal-metric-hypothesis-I/cover.png
-
+tags: physics quantum-gravity causal-set-theory spacetime metric-recovery
 bibliography: 2021-04-12-causal-metric-hypothesis-I.bib
-
+thumbnail: /assets/img/posts/2021-04-12-causal-metric-hypothesis-I/cover.png
 toc:
   - name: General Version of Hypothesis
     subsections:

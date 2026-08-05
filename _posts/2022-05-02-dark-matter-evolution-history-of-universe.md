@@ -2,14 +2,15 @@
 layout: distill
 title: "Dark Matter: Evidence, Classification and Candidates"
 description: "Understanding the invisible mass of the universe — its evidence, classification, and candidates from baryonic MACHOs to supersymmetric WIMPs."
-tags: physics cosmology dark-matter universe evolution
 date: 2022-05-02
+featured: false
 giscus_comments: false
 authors:
   - name: Muhammad Bilal Azam
     url: "https://mbilalazam.github.io"
     affiliations:
       name: Illinois Institute of Technology
+tags: physics cosmology dark-matter universe evolution
 bibliography: 2022-05-02-dark-matter-evolution-history-of-universe.bib
 thumbnail: /assets/img/posts/2022-05-02-dark-matter-evolution-history-of-universe/cover.png
 toc:

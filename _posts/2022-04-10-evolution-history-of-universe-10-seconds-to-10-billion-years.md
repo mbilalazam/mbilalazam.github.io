@@ -3,7 +3,7 @@ layout: distill
 title: "Evolution History of Universe: From 10 Seconds to 10 Billion Years"
 description: "From the photon epoch to the formation of galaxies — tracing how the universe evolved from seconds to billions of years."
 date: 2022-04-10
-featured: true
+featured: false
 giscus_comments: false
 authors:
   - name: Muhammad Bilal Azam
