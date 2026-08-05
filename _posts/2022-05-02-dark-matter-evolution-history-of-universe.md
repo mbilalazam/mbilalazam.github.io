@@ -120,5 +120,5 @@ Similar to gravitinos, classified as EWIMPs (Exceedingly Weakly Interacting Medi
 
 ## Previous Blog Posts
 
-1. [Evolution History of Universe (A Story from Zero to Ten Seconds)](https://mbilalazam.com/1-evolution-history-of-universe-a-story-from-zero-to-ten-seconds/)
-2. [Evolution History of Universe (From 10 Seconds to 10 Billion Years)](https://mbilalazam.com/2-evolution-history-of-universe-from-10-seconds-to-10-billion-years/)
+1. [Evolution History of Universe (A Story from Zero to Ten Seconds)](/blog/2022/evolution-history-of-universe-zero-to-ten-seconds/)
+2. [Evolution History of Universe (From 10 Seconds to 10 Billion Years)](/blog/2022/evolution-history-of-universe-10-seconds-to-10-billion-years/)
