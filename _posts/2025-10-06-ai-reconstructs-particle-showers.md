@@ -12,13 +12,25 @@ authors:
       name: Illinois Institute of Technology
 tags: AI DUNE particle-physics machine-learning
 thumbnail: /assets/img/posts/2025-10-06-ai-reconstructs-particle-showers/cover.png
+toc:
+  - name: Understanding the invisible
+  - name: Adjusted Rand Index
+    subsections:
+      - name: Example step-by-step RI calculation
+  - name: Purity
+  - name: Clustering Efficiency
+  - name: Edge and Node Accuracy
+  - name: Loss
+  - name: Putting It All Together
+    subsections:
+      - name: In short
 ---
 
 > *When physicists teach machines to recognize the footprints of invisible particles, how do they know the machine has truly understood what it’s seeing?*
 
 ---
 
-### Understanding the invisible
+## Understanding the invisible {#understanding-the-invisible}
 
 In high-energy physics, detectors record tiny **fragments** of a particle’s energy trail — a bit like scattered puzzle pieces. When we train a deep-learning model to **reconstruct electromagnetic (EM) showers**, we want to know how well it has learned to assemble those pieces back into the right physical picture.
 
@@ -26,7 +38,7 @@ To measure that, physicists use a family of **clustering and learning metrics** 
 
 ---
 
-## 1. Adjusted Rand Index (ARI)
+## 1. Adjusted Rand Index (ARI) {#adjusted-rand-index}
 
 Imagine you and your friend both try to sort puzzle pieces into their correct pictures. The Adjusted Rand Index (ARI) checks **how similar your sorting is**, while correcting for the chance that you might agree just by luck.
 
@@ -50,7 +62,7 @@ Here:
 - $$c$$: pairs in the same group in truth but different in prediction  
 - $$d$$: pairs in the same group in prediction but different in truth  
 
-### Example: Step-by-step RI calculation
+### Example: Step-by-step RI calculation {#example-step-by-step-ri-calculation}
 
 Let us go through a small example to see where the numbers come from. We have **six fragments** labeled $$F1–F6$$. The Ground truth groups are:
 
@@ -113,7 +125,7 @@ ARI is powerful because it considers **every possible fragment pair** — a comp
 
 ---
 
-## 2. Purity — “How clean are the predicted groups?”
+## 2. Purity — “How clean are the predicted groups?” {#purity}
 
 Purity examines each **predicted cluster** the model creates. It asks whether all fragments in that cluster truly belong to the same physical shower. A perfectly pure cluster means the model did not mix fragments from different particles. If fragments from two showers end up together, purity drops.
 
@@ -133,7 +145,7 @@ But purity alone does not punish **over-splitting** — if one true shower is di
 
 ---
 
-## 3. Clustering Efficiency — “How complete are the true showers?”
+## 3. Clustering Efficiency — “How complete are the true showers?” {#clustering-efficiency}
 
 Efficiency flips the question. Instead of asking “Is each prediction clean?”, it asks “Did we recover each true shower completely?”
 
@@ -153,7 +165,7 @@ A good reconstruction strikes a balance:
 
 ---
 
-## 4. Edge and Node Accuracy
+## 4. Edge and Node Accuracy {#edge-and-node-accuracy}
 
 Inside the model, each event becomes a **graph**:
 - Nodes are fragments.  
@@ -171,7 +183,7 @@ Similarly, **node accuracy** checks whether each fragment is correctly labeled a
 
 ---
 
-## 5. Loss — “How far are predictions from the truth?”
+## 5. Loss — “How far are predictions from the truth?” {#loss}
 
 While accuracy counts how many predictions were right, **loss** tells us *how confident* the model was when it was right or wrong. It is computed with **Binary Cross-Entropy (BCE)** — a function that punishes confident mistakes more heavily than hesitant ones.
 
@@ -200,7 +212,7 @@ Lower loss = closer alignment between machine predictions and physical truth.
 
 ---
 
-## 6. Putting It All Together
+## 6. Putting It All Together {#putting-it-all-together}
 
 These metrics fall into two complementary families:
 
@@ -213,7 +225,7 @@ When both sets improve together, it means the AI is not just memorizing data —
 
 ---
 
-### In short:
+### In short: {#in-short}
 > ARI judges agreement,  
 > Purity measures cleanliness,  
 > Efficiency measures completeness,  
