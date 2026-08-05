@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: "Why do we need “Quantum Gravity”?"
-description: "Motivation behind quantum gravity and causal sets."
+description: "Why gravity resists quantization — the motivations for a quantum theory of gravity, its cut-off scales, and the main approaches including causal sets."
 tags: physics quantum-gravity causal-set-theory
 date: 2021-01-31
 giscus_comments: false

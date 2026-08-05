@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: "Dark Matter"
+title: "Dark Matter: Evidence, Classification and Candidates"
 description: "Understanding the invisible mass of the universe — its evidence, classification, and candidates from baryonic MACHOs to supersymmetric WIMPs."
 tags: physics cosmology dark-matter universe evolution
 date: 2022-05-02
