@@ -2,7 +2,7 @@
 layout: distill
 title: "Riazuddin: The Self-Effacing Quintessential Physicist of Pakistan"
 description: "Tribute article on Professor Riazuddin — one of Pakistan’s greatest theoretical physicists and a close collaborator of Abdus Salam."
-tags: physics Pakistan history Abdus Salam Riazuddin
+tags: physics pakistan history abdus-salam riazuddin
 date: 2019-10-05
 featured: true
 giscus_comments: false
