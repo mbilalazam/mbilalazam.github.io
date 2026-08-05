@@ -96,11 +96,16 @@ layout: default
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">
               {%- case data[0] -%}
-                {%- when 'talks' -%}Oral Talks
-                {%- when 'affiliations' -%}Professional Affiliations
-                {%- when 'conferences' -%}Conferences, Workshops and Seminars
-                {%- when 'writing' -%}General Publications
-                {%- else -%}{{ data[0] | capitalize }}
+                {%- when 'talks' -%}
+                  Oral Talks
+                {%- when 'affiliations' -%}
+                  Professional Affiliations
+                {%- when 'conferences' -%}
+                  Conferences, Workshops and Seminars
+                {%- when 'writing' -%}
+                  General Publications
+                {%- else -%}
+                  {{ data[0] | capitalize }}
               {%- endcase -%}
             </h3>
             <div>
