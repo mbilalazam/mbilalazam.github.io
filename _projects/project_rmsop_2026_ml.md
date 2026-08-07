@@ -55,6 +55,6 @@ Each lecture has worked examples, hands-on activities, and an accompanying Jupyt
 
 **[Opening slides (PDF)](https://github.com/mbilalazam/rmsop-2026-lecture-notes/blob/main/build/slides_intro.pdf)**: course introduction and overview.
 
-**Recordings**: all five lectures were streamed live and remain available on the school's YouTube channel. Individual links are in the table above.
+**[Recordings](https://www.youtube.com/@dr.riaz-ud-dinmemorialscho7774)**: all five lectures were streamed live and remain available on the school's YouTube channel. Individual links are in the table above.
 
 **[rmsop-2026-lecture-notes](https://github.com/mbilalazam/rmsop-2026-lecture-notes)**: full LaTeX source, notebooks, figure-generation scripts, and data. Figures are pre-generated and committed; each lecture folder has a `make_figures.py` to regenerate them.
