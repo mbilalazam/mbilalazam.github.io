@@ -9,6 +9,29 @@ nav_order: 6
 
 <div class="cv">
 
+  <!-- RMSoP 2026 -->
+  <div class="card mt-3 p-3">
+    <div class="d-flex justify-content-between align-items-center mb-1 flex-wrap">
+      <h3 class="card-title font-weight-medium mb-0">
+        University of Agriculture Faisalabad
+      </h3>
+      <span class="badge-toc">August 2026</span>
+    </div>
+    <p class="font-weight-light mb-1">Faisalabad, Pakistan</p>
+    <p class="font-weight-light mb-2">
+      <b class="text-theme">Instructor — 6th Dr. Riaz ud Din Memorial School on Physics</b>
+    </p>
+    <div class="ml-1 ml-md-4">
+      <p class="font-weight-light mb-0">
+        Taught <b>An Introduction to Machine Learning for Physicists</b>, a five-lecture short
+        course delivered in hybrid mode at the 6th Dr.
+        <a href="/blog/2019/riazuddin/">Riazuddin</a> Memorial School on Physics, organised by the
+        Department of Physics. Full notes, slides, and notebooks are on the
+        <a href="/projects/project_rmsop_2026_ml/">course page</a>.
+      </p>
+    </div>
+  </div>
+
   <!-- Illinois Institute of Technology -->
   <div class="card mt-3 p-3">
     <div class="d-flex justify-content-between align-items-center mb-1 flex-wrap">
