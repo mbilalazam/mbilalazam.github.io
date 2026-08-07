@@ -19,7 +19,7 @@ nav_order: 6
     </div>
     <p class="font-weight-light mb-1">Faisalabad, Pakistan</p>
     <p class="font-weight-light mb-2">
-      <b class="text-theme">Instructor — 6th Dr. Riaz ud Din Memorial School on Physics</b>
+      <b class="text-theme">Instructor, 6th Dr. Riaz ud Din Memorial School on Physics</b>
     </p>
     <div class="ml-1 ml-md-4">
       <p class="font-weight-light mb-0">
