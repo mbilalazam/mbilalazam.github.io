@@ -173,6 +173,11 @@ ninja.data = [{
           description: "From coffee mugs to quantum computers — how topology meets superconductivity in the hunt for self-conjugate particles.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_majorana/";
+            },},{id: "projects-an-introduction-to-machine-learning-for-physicists",
+          title: 'An Introduction to Machine Learning for Physicists',
+          description: "A five-lecture short course taught at the 6th Dr. Riaz ud Din Memorial School on Physics, University of Agriculture Faisalabad, August 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_rmsop_2026_ml/";
             },},{id: "projects-spine-camera-synchronization-multi-view-event-display-sync",
           title: 'SPINE Camera Synchronization: Multi-View Event Display Sync',
           description: "A lightweight JavaScript patch for synchronizing camera motion between reconstructed and truth 3D scenes in SPINE/Plotly visualizations",
